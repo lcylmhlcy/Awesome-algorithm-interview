@@ -38,3 +38,5 @@
 
 ## 其它
 - [2019届秋招面经集合](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
+- [LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python)](https://github.com/apachecn/awesome-algorithm)  
+- [LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++)](https://github.com/knightsj/awesome-algorithm-question-solution)  
