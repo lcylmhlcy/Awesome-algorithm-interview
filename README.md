@@ -6,11 +6,6 @@
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)  
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
 
-## C/C++
-- C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
-- Leetcode 题解代码仓(C++) [Github](https://github.com/liuyubobobo/Play-Leetcode)  
-- [LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++)](https://github.com/knightsj/awesome-algorithm-question-solution)  
-
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
 - 100-Days-Of-ML-Code中文版 [Github](https://github.com/MLEveryday/100-Days-Of-ML-Code)  
@@ -27,6 +22,11 @@
 - 《深度学习框架PyTorch：入门与实践》的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)  
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
 - practicalAI [Github](https://github.com/GokuMohandas/practicalAI)  
+
+## C/C++
+- C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
+- Leetcode 题解代码仓(C++) [Github](https://github.com/liuyubobobo/Play-Leetcode)  
+- [LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++)](https://github.com/knightsj/awesome-algorithm-question-solution)  
 
 ## Python
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
