@@ -5,7 +5,8 @@
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)  
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)  
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
-- 我的2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
+- 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
+- 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
