@@ -4,7 +4,7 @@
 ## 算法工程师
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)  
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)  
-- Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
+- [2019届秋招面经集合](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
 - 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
 - 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
 - 硅谷高级工程师告诉你：算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
@@ -27,11 +27,11 @@
 - 《深度学习框架PyTorch：入门与实践》的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)  
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
  
-
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
 - Leetcode 题解代码仓(C++) [Github](https://github.com/liuyubobobo/Play-Leetcode)  
 - [LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++)](https://github.com/knightsj/awesome-algorithm-question-solution)  
+- Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
 
 ## Python
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
@@ -43,5 +43,4 @@
 -  [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese)  
 
 ## 其它
-- [2019届秋招面经集合](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
