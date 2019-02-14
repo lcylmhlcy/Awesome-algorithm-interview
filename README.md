@@ -7,6 +7,7 @@
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
 - 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
 - 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
+- 硅谷高级工程师告诉你：算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
@@ -18,12 +19,14 @@
 - Python codes for common Machine Learning Algorithms [Github](https://github.com/susanli2016/Machine-Learning-with-Python)  
 
 ## 深度学习
+- 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
+- practicalAI [Github](https://github.com/GokuMohandas/practicalAI)   
 - stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)  
 - 动手学深度学习 [Github](https://github.com/d2l-ai/d2l-zh)  
-- 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
+- PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)  
 - 《深度学习框架PyTorch：入门与实践》的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)  
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
-- practicalAI [Github](https://github.com/GokuMohandas/practicalAI)  
+ 
 
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
