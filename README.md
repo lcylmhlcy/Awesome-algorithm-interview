@@ -8,6 +8,7 @@
 - 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
 - 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
 - 硅谷高级工程师告诉你：算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
+- AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）[Github](https://github.com/amusi/AI-Job-Notes)  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
