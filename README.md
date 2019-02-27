@@ -4,7 +4,8 @@
 ## 算法工程师
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)  
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)  
-- [2019届秋招面经集合](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
+- 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
+- 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes)  
 - 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
 - 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
 - 硅谷高级工程师告诉你：算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
@@ -31,17 +32,17 @@
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
 - Leetcode 题解代码仓(C++) [Github](https://github.com/liuyubobobo/Play-Leetcode)  
-- [LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++)](https://github.com/knightsj/awesome-algorithm-question-solution)  
+- LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++) [Github](https://github.com/knightsj/awesome-algorithm-question-solution)  
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
 
 ## Python
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
 - wtfpython的中文翻译 [Github](https://github.com/leisurelicht/wtfpython-cn)  
 - 关于Python的面试题 [Github](https://github.com/taizilongxu/interview_python)  
-- [LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python)](https://github.com/apachecn/awesome-algorithm)  
+- LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python) [Github](https://github.com/apachecn/awesome-algorithm)  
 
 ## 简历模板
--  [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese)  
+-  Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)  
 
 ## 其它
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
