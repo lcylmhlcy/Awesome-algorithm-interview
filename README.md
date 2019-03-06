@@ -10,6 +10,7 @@
 - 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
 - 硅谷高级工程师告诉你：算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
 - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）[Github](https://github.com/amusi/AI-Job-Notes)  
+- 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
@@ -39,6 +40,7 @@
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
 - wtfpython的中文翻译 [Github](https://github.com/leisurelicht/wtfpython-cn)  
 - 关于Python的面试题 [Github](https://github.com/taizilongxu/interview_python)  
+- 关于Python的面试题 [Github](https://github.com/kenwoodjw/python_interview_question)  
 - LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python) [Github](https://github.com/apachecn/awesome-algorithm)  
 
 ## 简历模板
