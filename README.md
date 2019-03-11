@@ -3,7 +3,7 @@
 
 ## 算法工程师
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)  
-- 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)  
+- 算法工程师面试 [Github](https://github.com/lcylmhlcy/AIinterview)  
 - 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
 - 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes)  
 - 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
