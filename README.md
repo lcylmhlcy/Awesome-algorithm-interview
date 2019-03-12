@@ -48,3 +48,4 @@
 
 ## 其它
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
+- 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) [Github](https://github.com/1c7/crash-course-computer-science-chinese)  
