@@ -32,6 +32,7 @@
  
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
+- C/C++问题总结 [Github](https://github.com/linw7/Skill-Tree/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80C++.md)
 - Leetcode 题解代码仓(C++) [Github](https://github.com/liuyubobobo/Play-Leetcode)  
 - LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++) [Github](https://github.com/knightsj/awesome-algorithm-question-solution)  
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
