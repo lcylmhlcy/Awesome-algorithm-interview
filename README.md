@@ -39,6 +39,7 @@
 - Leetcode 题解代码仓(C++) [Github](https://github.com/liuyubobobo/Play-Leetcode)  
 - LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++) [Github](https://github.com/knightsj/awesome-algorithm-question-solution)  
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
+- learnOpencv [Github](https://github.com/spmallick/learnopencv)  
 
 ## Python
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
