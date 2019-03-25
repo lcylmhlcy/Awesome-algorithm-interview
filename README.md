@@ -1,5 +1,6 @@
-# Awesome-algorithm-interview
-算法工程师面试问题及相关资料的github收集
+# Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> 算法工程师面试问题及相关资料的github收集  
 
 ## 算法工程师
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)  
@@ -55,3 +56,4 @@
 ## 其它
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
 - 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) [Github](https://github.com/1c7/crash-course-computer-science-chinese)  
+- awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
