@@ -13,6 +13,7 @@
 - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）[Github](https://github.com/amusi/AI-Job-Notes)  
 - 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)  
 - 做计算机视觉的你，如何拿到大厂的Offer的？可否分享下？ [Github](https://www.zhihu.com/question/272045026/answer/366665187)  
+- 旷视19届春招-算法研究员-凉经 [zhihu](https://www.nowcoder.com/discuss/167336)  
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9  
 
 ## 机器学习
