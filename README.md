@@ -7,14 +7,15 @@
 - 算法工程师面试 [Github](https://github.com/lcylmhlcy/AIinterview)  
 - 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
 - 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes)  
+- AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）[Github](https://github.com/amusi/AI-Job-Notes)  
+- 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)  
+- AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)  
+- 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9  
 - 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
 - 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
 - 硅谷高级工程师告诉你：算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
-- AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）[Github](https://github.com/amusi/AI-Job-Notes)  
-- 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)  
 - 做计算机视觉的你，如何拿到大厂的Offer的？可否分享下？ [Github](https://www.zhihu.com/question/272045026/answer/366665187)  
 - 旷视19届春招-算法研究员-凉经 [zhihu](https://www.nowcoder.com/discuss/167336)  
-- 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
