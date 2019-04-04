@@ -26,6 +26,7 @@
 - 李航博士《统计学习方法》一书中所有算法python实现 [Github](https://github.com/WenDesi/lihang_book_algorithm)  
 - Python codes for common Machine Learning Algorithms [Github](https://github.com/susanli2016/Machine-Learning-with-Python)  
 - Machine-Learning-Study-Path-March-2019 [Github](https://github.com/clone95/Machine-Learning-Study-Path-March-2019)  
+- 《机器学习》（西瓜书）公式推导解析 [Github](https://github.com/datawhalechina/pumpkin-book)  
 
 ## 深度学习
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
