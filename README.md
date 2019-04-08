@@ -18,6 +18,7 @@
 - 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)  
 - 腾讯算法实习面试总结 [nowcoder](https://www.nowcoder.com/discuss/163996)  
 - 春招详细算法面经(旷视/海康/联影等8家公司Offer) [nowcoder](https://www.nowcoder.com/discuss/163388)  
+- 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
