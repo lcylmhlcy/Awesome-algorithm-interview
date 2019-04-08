@@ -13,9 +13,11 @@
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9  
 - 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
 - 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
-- 硅谷高级工程师告诉你：算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
-- 做计算机视觉的你，如何拿到大厂的Offer的？可否分享下？ [Github](https://www.zhihu.com/question/272045026/answer/366665187)  
-- 旷视19届春招-算法研究员-凉经 [zhihu](https://www.nowcoder.com/discuss/167336)  
+- 算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
+- 做计算机视觉的你，如何拿到大厂的Offer的？可否分享下？ [zhihu](https://www.zhihu.com/question/272045026/answer/366665187)  
+- 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)  
+- 腾讯算法实习面试总结 [nowcoder](https://www.nowcoder.com/discuss/163996)  
+- 春招详细算法面经(旷视/海康/联影等8家公司Offer) [nowcoder](https://www.nowcoder.com/discuss/163388)  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
