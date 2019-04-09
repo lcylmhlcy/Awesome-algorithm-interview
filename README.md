@@ -33,6 +33,7 @@
 
 ## 深度学习
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
+- 深度学习面试问题 [Github](https://github.com/elviswf/DeepLearningBookQA_cn) 
 - practicalAI [Github](https://github.com/GokuMohandas/practicalAI)   
 - stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)  
 - 动手学深度学习 [Github](https://github.com/d2l-ai/d2l-zh)  
@@ -54,6 +55,7 @@
 - 关于Python的面试题 [Github](https://github.com/taizilongxu/interview_python)  
 - 关于Python的面试题 [Github](https://github.com/kenwoodjw/python_interview_question)  
 - LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python) [Github](https://github.com/apachecn/awesome-algorithm)  
+- 剑指offer（python版）/ 算法图解 / python基础 / 数据结构 [Github](https://github.com/weixianglin/oh-my-python)  
 
 ## 简历模板
 -  Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)  
