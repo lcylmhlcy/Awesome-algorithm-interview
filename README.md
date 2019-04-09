@@ -1,6 +1,10 @@
 # Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> 算法工程师面试问题及相关资料的github收集  
+> 算法工程师面试问题及相关资料的网站收集  
+
+## 欢迎加入
+1. 有好的面试问题可以在Iusses中讨论。  
+2. 将自己的面试经验以博客网站链接的形式pull request (参照本仓库格式)  
 
 ## 算法工程师
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)  
