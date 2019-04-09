@@ -11,14 +11,15 @@
 - 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)  
 - AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)  
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9  
-- 2019面试经验总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/1.md)  
-- 小米面试总结 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/2.md)  
-- 算法工程师必须要知道的面试技能雷达图 [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/interview/3.md)  
+- 2019面试经验总结 [Github](https://www.jianshu.com/p/58855c6971e5)  
+- 小米面试总结 [Blog](https://wx.qnmlgb.tech/articles/5c55c999ce56ab804b1526cd/)  
+- 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
 - 做计算机视觉的你，如何拿到大厂的Offer的？可否分享下？ [zhihu](https://www.zhihu.com/question/272045026/answer/366665187)  
 - 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)  
 - 腾讯算法实习面试总结 [nowcoder](https://www.nowcoder.com/discuss/163996)  
 - 春招详细算法面经(旷视/海康/联影等8家公司Offer) [nowcoder](https://www.nowcoder.com/discuss/163388)  
 - 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)  
+- 普通的算法/机器学习面经 [nowcoder](https://www.nowcoder.com/discuss/61907)  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
