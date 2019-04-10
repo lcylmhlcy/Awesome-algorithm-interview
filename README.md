@@ -27,6 +27,8 @@
 - 20届-视觉算法-暑期实习 [nowcoder](https://www.nowcoder.com/discuss/173292)  
 
 ## 机器学习
+- 机器学习面试算法梳理 [Blog](https://www.cnblogs.com/tornadomeet/p/3395593.html)  
+- 机器学习与深度学习面试问题总结 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247486331&idx=1&sn=abc69ee44d932dd7d6bc4bbef82045c8&chksm=97ea211ea09da808a546c4a6f485f45289fea2e69cddc95aaf16f06ddfb9c428ecf9d259c980&scene=0&key=f7bb43d4492422e0472e06f4faf0076f9d9de975e8a73050e15cd63f1f549a060f9018009aa9f1f5f19aa37f1408ecb3ea2be5b8464b4eae89884e1d881c91ebef20c84ea9198fed470f36016f54c30a&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
 - 100-Days-Of-ML-Code中文版 [Github](https://github.com/MLEveryday/100-Days-Of-ML-Code)  
 - Homemade Machine Learning [Github](https://github.com/trekhleb/homemade-machine-learning)  
@@ -47,6 +49,8 @@
 - PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)  
 - <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)  
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
+- 深度神经网络实战技巧 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487319&idx=2&sn=35c275493f2c76a557cd5d95cbe728cc&chksm=97ea2532a09dac24d4acee0d38f6f91eee5b27ae0b0396a6186a30e26c2c515fae520013f194&mpshare=1&scene=24&srcid=0915AM36f3jIiv2An5onyGRI&key=026f558c5690f871f52a7864e791811c82fe8d67d1c3604a334a8f8a39c252cbcc03ace1a17af46a7d29333921ca82b635602f95a20b530b7e2ceb2ea411cd1e4867ece5bb7c7307ac3407bf450794e1&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
+- 深度学习从入门到进阶的12个经典问题及解答 [Blog](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489949&idx=2&sn=47ed40dd141c8321bb2478d64b3ec403&chksm=fbe9a052cc9e29447d99413b4bc37adbde195185aa6383166224f9935f0d318d051dd07ccd0c&scene=0&key=5121627df01c7147efe8859959f4d20b73fba95c9371f7ac9d15490736e8e5d799c882d8e8ee86f2177feec1fed1ccbad55b8aa00ea12e7c5f11d9382dc158e587fdd3f670997b791ada4fbbe9bf81e3&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
  
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
