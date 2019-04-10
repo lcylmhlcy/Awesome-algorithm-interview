@@ -24,6 +24,7 @@
 - 春招详细算法面经(旷视/海康/联影等8家公司Offer) [nowcoder](https://www.nowcoder.com/discuss/163388)  
 - 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)  
 - 普通的算法/机器学习面经 [nowcoder](https://www.nowcoder.com/discuss/61907)  
+- 20届-视觉算法-暑期实习 [nowcoder](https://www.nowcoder.com/discuss/173292)  
 
 ## 机器学习
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
