@@ -83,3 +83,4 @@
 - 中国科学技术大学课程资源 [Github](https://github.com/USTC-Resource/USTC-Course)  
 - 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/)  
 - 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)  
+- 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
