@@ -69,6 +69,7 @@
 - AI 算法岗简历模板 [Github](https://github.com/amusi/AI-Job-Resume)  
 
 ## 其它
+- 如何拿到自己满意的offer？ [Blog](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247486735&idx=1&sn=73d5b1f2daed2f84ebdfbb8b24040378&chksm=97d7e898a0a0618e94727f87742ef25a058adfa4b122936d1699f3bc58d7f4c2c9066fc616e3&mpshare=1&scene=24&srcid=01048c6NLyyTF2KFsmufQUmu&key=5aa6b6fc7e8425bd2c56dc2d40e38a5420421b970c3032c6a10340aafea634d628efc581ea514113bb3aa32ced5bd66622e00628fc4ab073d3cf26dc370b82f26d7d5fdd5183337e2fa81cf2fbc4c396&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
 - 计算机速成课(全40集) [Github](https://github.com/1c7/crash-course-computer-science-chinese)  
 - awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
