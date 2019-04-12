@@ -1,5 +1,4 @@
-# Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
-[![GitHub stars](https://img.shields.io/github/stars/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Stars)](https://github.com/lcylmhlcy/Awesome-algorithm-interview)  
+# Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Stars)](https://github.com/lcylmhlcy/Awesome-algorithm-interview)  
 
 
 > 算法工程师面试问题及相关资料的网站收集  
