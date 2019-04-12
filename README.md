@@ -1,4 +1,6 @@
-# Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
+[![GitHub stars](https://img.shields.io/github/stars/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Stars)](https://github.com/lcylmhlcy/Awesome-algorithm-interview)  
+
 
 > 算法工程师面试问题及相关资料的网站收集  
 
@@ -86,3 +88,4 @@
 - 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/)  
 - 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)  
 - 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
+- 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)  
