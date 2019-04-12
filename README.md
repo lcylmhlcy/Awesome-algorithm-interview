@@ -68,6 +68,8 @@
 - 关于Python的面试题 [Github](https://github.com/kenwoodjw/python_interview_question)  
 - LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python) [Github](https://github.com/apachecn/awesome-algorithm)  
 - 剑指offer（python版）/ 算法图解 / python基础 / 数据结构 [Github](https://github.com/weixianglin/oh-my-python)  
+- 算法面试题python [Github](https://github.com/leeguandong/Interview-code-practice-python)  
+- All Algorithms implemented in Python [Github](https://github.com/TheAlgorithms/Python)  
 
 ## 简历模板
 -  Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)  
