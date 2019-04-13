@@ -26,6 +26,7 @@
 - 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)  
 - 普通的算法/机器学习面经 [nowcoder](https://www.nowcoder.com/discuss/61907)  
 - 20届-视觉算法-暑期实习 [nowcoder](https://www.nowcoder.com/discuss/173292)  
+- 字节跳动实习算法岗面经 [nowcoder](https://www.nowcoder.com/discuss/174565)  
 
 ## 机器学习
 - 机器学习面试算法梳理 [Blog](https://www.cnblogs.com/tornadomeet/p/3395593.html)  
@@ -74,6 +75,18 @@
 - All Algorithms implemented in Python [Github](https://github.com/TheAlgorithms/Python)  
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
 - wtfpython的中文翻译 [Github](https://github.com/leisurelicht/wtfpython-cn)  
+
+## 竞赛/比赛
+- [kaggle数据科学竞赛](https://www.kaggle.com/competitions)  
+- [阿里云天池比赛](https://tianchi.aliyun.com/competition/gameList/activeList)  
+- [AI Challenger](https://challenger.ai/?lan=zh)  
+- [和鲸HeyWhale/科赛AI竞赛平台](https://www.kesci.com/home/competition)  
+- [FlyAI竞赛平台](https://www.flyai.com/)  
+- [BaiduAI竞赛](https://aistudio.baidu.com/aistudio/#/competition)  
+- [DC竞赛](http://www.dcjingsai.com/static_page/cmpList.html)  
+- [DataFountain竞赛](https://www.datafountain.cn/competitions)  
+- [日本SIGNATE竞赛](https://signate.jp/competitions)  
+- [Awesome-AI-competitions](https://github.com/HuangCongQing/AI_competitions)  
 
 ## 简历模板
 - Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)  
