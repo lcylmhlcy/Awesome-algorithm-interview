@@ -43,6 +43,7 @@
 - Machine-Learning-Study-Path-March-2019 [Github](https://github.com/clone95/Machine-Learning-Study-Path-March-2019)  
 - <机器学习>(西瓜书)公式推导解析 [Github](https://github.com/datawhalechina/pumpkin-book)  
 - <数据科学实战>书代码 [Github](https://github.com/oreillymedia/doing_data_science)  
+- 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)  
 
 ## 深度学习
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
