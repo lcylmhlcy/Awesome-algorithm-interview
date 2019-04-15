@@ -53,6 +53,7 @@
 ## 深度学习
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
 - 深度学习面试问题 [Github](https://github.com/elviswf/DeepLearningBookQA_cn)  
+- 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)  
 - Deep Learning Interview 深度学习面试题目汇总 [Github](https://github.com/ShanghaiTechAIClub/DLInterview)  
 - 深度神经网络实战技巧 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487319&idx=2&sn=35c275493f2c76a557cd5d95cbe728cc&chksm=97ea2532a09dac24d4acee0d38f6f91eee5b27ae0b0396a6186a30e26c2c515fae520013f194&mpshare=1&scene=24&srcid=0915AM36f3jIiv2An5onyGRI&key=026f558c5690f871f52a7864e791811c82fe8d67d1c3604a334a8f8a39c252cbcc03ace1a17af46a7d29333921ca82b635602f95a20b530b7e2ceb2ea411cd1e4867ece5bb7c7307ac3407bf450794e1&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - 深度学习从入门到进阶的12个经典问题及解答 [Blog](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489949&idx=2&sn=47ed40dd141c8321bb2478d64b3ec403&chksm=fbe9a052cc9e29447d99413b4bc37adbde195185aa6383166224f9935f0d318d051dd07ccd0c&scene=0&key=5121627df01c7147efe8859959f4d20b73fba95c9371f7ac9d15490736e8e5d799c882d8e8ee86f2177feec1fed1ccbad55b8aa00ea12e7c5f11d9382dc158e587fdd3f670997b791ada4fbbe9bf81e3&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
