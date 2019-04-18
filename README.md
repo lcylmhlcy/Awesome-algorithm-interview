@@ -118,6 +118,7 @@
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
 - 计算机速成课(全40集) [Github](https://github.com/1c7/crash-course-computer-science-chinese)  
 - awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
+- Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)  
 - 清华大学计算机系课程攻略 [Github](https://github.com/PKUanonym/REKCARC-TSC-UHT)  
 - 北京大学课程资料整理 [Github](https://github.com/lib-pku/libpku)  
 - 中国科学技术大学课程资源 [Github](https://github.com/USTC-Resource/USTC-Course)  
