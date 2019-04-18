@@ -24,6 +24,8 @@
 - 20届-视觉算法-暑期实习 [nowcoder](https://www.nowcoder.com/discuss/173292)  
 - 字节跳动实习算法岗面经 [nowcoder](https://www.nowcoder.com/discuss/174565)   
 - 阿里腾讯虎牙机器学习算法面经 [nowcoder](https://www.nowcoder.com/discuss/175759)  
+- 字节跳动图形图像算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/178153)  
+- 拼多多算法实习生面经 [nowcoder](https://www.nowcoder.com/discuss/177911)  
 - 阿里巴巴计算机视觉算法实习生视频面试 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488083&idx=3&sn=499149282d197c1b68d3fa105a69e271&chksm=f9a260dcced5e9ca7a86741c90b5199251b4bf02b2279b314fa3302911b8d0c22e036dd7bb33&scene=21#wechat_redirect)   
 - 字节跳动计算机视觉算法实习生视频面试 [zhihu](https://zhuanlan.zhihu.com/p/59270912)   
 - cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)   
