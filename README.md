@@ -75,6 +75,7 @@
 - LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++) [Github](https://github.com/knightsj/awesome-algorithm-question-solution)  
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
 - learnOpencv [Github](https://github.com/spmallick/learnopencv)  
+- Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS/) [Blog](https://walkccc.github.io/CLRS/)  
 
 ## Python
 - 关于Python的面试题 [Github](https://github.com/taizilongxu/interview_python)  
