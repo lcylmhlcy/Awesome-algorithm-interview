@@ -1,6 +1,7 @@
 # Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)   
 
 > 算法工程师(人工智能cv方向)面试问题及相关资料的网站收集  
+> 也可访问本仓库的 [Github Pages] https://lcylmhlcy.github.io/Awesome-algorithm-interview/
 
 [![GitHub stars](https://img.shields.io/github/stars/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Stars)](https://github.com/lcylmhlcy/Awesome-algorithm-interview) [![GitHub forks](https://img.shields.io/github/forks/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Forks)](https://github.com/lcylmhlcy/Awesome-algorithm-interview)  
 
@@ -33,6 +34,7 @@
 - 2019秋招算法面经 [zhihu](https://zhuanlan.zhihu.com/p/42936891)   
 - 算法校招经验总结(百度,阿里巴巴,腾讯,今日头条) [CSDN](https://blog.csdn.net/ML_SDD/article/details/84986528)   
 - 从零基础到BAT算法岗SP——秋招准备攻略 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247485936&idx=1&sn=0e156832abdc9bfd4ee82b9b70063b3e&chksm=f9a27b7fced5f26912dd64b3c6f5a2d153068843cce378a8894ffb0ea786bcba698ef0d747f3&scene=21#wechat_redirect)   
+- 蚂蚁金服/旷视/虹软/腾讯优图暑期实习offer面经 [website](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489199&idx=3&sn=4b1f2f5033929491f56bebbc73a63e63&chksm=ebb42e7bdcc3a76d0c2c9d98f275882b9cbf852c2f32d5ab3977a670690c1150a3ab0b04aa53&scene=0&xtrack=1&key=5aa6b6fc7e8425bd24f718156836dc2e81e8283eeb1653306993c9c6816f5ba1d0415a3a95b30fdb1daf045964002a34ccb8a4f35727519df9aea73b6b87f702d2c2b2549c21f6e5360bf6929136fc5b&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=ESuAgyeBfQrIeEX8gTsQm4%2BCbjzCr74m7714n%2BShviVnNifUDKpDRrHljFR6o7iD)   
  
 ## 机器学习
 - 机器学习面试算法梳理 [Blog](https://www.cnblogs.com/tornadomeet/p/3395593.html)  
