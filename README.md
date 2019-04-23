@@ -57,7 +57,7 @@
 - <数据科学实战>书代码 [Github](https://github.com/oreillymedia/doing_data_science)  
 - 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)  
 - The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) [Website](https://bestofml.com/)  
-- - AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)  
+- AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)  
 
 ## 深度学习
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
