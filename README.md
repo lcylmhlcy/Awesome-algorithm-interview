@@ -27,6 +27,8 @@
 - 阿里腾讯虎牙机器学习算法面经 [nowcoder](https://www.nowcoder.com/discuss/175759)  
 - 字节跳动图形图像算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/178153)  
 - 拼多多算法实习生面经 [nowcoder](https://www.nowcoder.com/discuss/177911)  
+- 算法岗面经传送门 [nowcoder](https://www.nowcoder.com/discuss/180976)  
+- 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)  
 - 阿里巴巴计算机视觉算法实习生视频面试 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488083&idx=3&sn=499149282d197c1b68d3fa105a69e271&chksm=f9a260dcced5e9ca7a86741c90b5199251b4bf02b2279b314fa3302911b8d0c22e036dd7bb33&scene=21#wechat_redirect)   
 - 字节跳动计算机视觉算法实习生视频面试 [zhihu](https://zhuanlan.zhihu.com/p/59270912)   
 - cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)   
@@ -73,6 +75,7 @@
 - PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)  
 - <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)  
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
+- Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)  
  
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
@@ -130,3 +133,4 @@
 - 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)  
 - 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
 - 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)  
+- CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)
