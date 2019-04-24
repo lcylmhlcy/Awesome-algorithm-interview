@@ -134,3 +134,4 @@
 - 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
 - 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)  
 - CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)
+- Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)  
