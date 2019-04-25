@@ -125,6 +125,7 @@
 - All Algorithms implemented in Python [Github](https://github.com/TheAlgorithms/Python)  
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
 - wtfpython的中文翻译 [Github](https://github.com/leisurelicht/wtfpython-cn)  
+- python中文库-python人工智能大数据自动化接口测试开发。书籍下载及python库汇总 [Github](https://github.com/china-testing/python-api-tesing)  
 ---
 ## 竞赛/比赛
 - [kaggle数据科学竞赛](https://www.kaggle.com/competitions)  
