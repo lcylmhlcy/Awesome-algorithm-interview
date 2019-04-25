@@ -6,18 +6,15 @@
 [![GitHub stars](https://img.shields.io/github/stars/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Stars)](https://github.com/lcylmhlcy/Awesome-algorithm-interview) [![GitHub forks](https://img.shields.io/github/forks/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Forks)](https://github.com/lcylmhlcy/Awesome-algorithm-interview)  
 
 ## 算法工程师
+1. Github
 - 算法/深度学习/NLP面试笔记 [Github](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)  
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)  
 - 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
 - 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes)  
 - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）[Github](https://github.com/amusi/AI-Job-Notes)  
 - 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)  
-- AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)  
-- 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9  
-- 小米面试总结 [Blog](https://wx.qnmlgb.tech/articles/5c55c999ce56ab804b1526cd/)  
-- 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
-- 做计算机视觉的你，如何拿到大厂的Offer的？可否分享下？ [zhihu](https://www.zhihu.com/question/272045026/answer/366665187)  
-- 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)  
+
+2. 牛客网
 - 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)  
 - 腾讯算法实习面试总结 [nowcoder](https://www.nowcoder.com/discuss/163996)  
 - 春招详细算法面经(旷视/海康/联影等8家公司Offer) [nowcoder](https://www.nowcoder.com/discuss/163388)  
@@ -29,16 +26,29 @@
 - 拼多多算法实习生面经 [nowcoder](https://www.nowcoder.com/discuss/177911)  
 - 算法岗面经传送门 [nowcoder](https://www.nowcoder.com/discuss/180976)  
 - 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)  
-- 阿里巴巴计算机视觉算法实习生视频面试 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488083&idx=3&sn=499149282d197c1b68d3fa105a69e271&chksm=f9a260dcced5e9ca7a86741c90b5199251b4bf02b2279b314fa3302911b8d0c22e036dd7bb33&scene=21#wechat_redirect)   
-- 字节跳动计算机视觉算法实习生视频面试 [zhihu](https://zhuanlan.zhihu.com/p/59270912)   
 - cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)   
-- 面试经验AI算法工程师(面试官角度) [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247487216&idx=1&sn=4516fd92ecd48cebb91629a0b1f3473d&chksm=f9a27c7fced5f5694608c40a8f4dce2636986d28145f073d2d8de088dd5ef3caa66423773787&scene=21#wechat_redirect)   
+
+3. 知乎
+- 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
+- 做计算机视觉的你，如何拿到大厂的Offer的？可否分享下？ [zhihu](https://www.zhihu.com/question/272045026/answer/366665187)  
+- 字节跳动计算机视觉算法实习生视频面试 [zhihu](https://zhuanlan.zhihu.com/p/59270912)   
 - 2019秋招算法面经 [zhihu](https://zhuanlan.zhihu.com/p/42936891)   
+
+4. 个人博客
+- AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)  
+- 小米面试总结 [Blog](https://wx.qnmlgb.tech/articles/5c55c999ce56ab804b1526cd/)  
+- 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)  
 - 算法校招经验总结(百度,阿里巴巴,腾讯,今日头条) [CSDN](https://blog.csdn.net/ML_SDD/article/details/84986528)   
+
+5. 微信公众号
+- 阿里巴巴计算机视觉算法实习生视频面试 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488083&idx=3&sn=499149282d197c1b68d3fa105a69e271&chksm=f9a260dcced5e9ca7a86741c90b5199251b4bf02b2279b314fa3302911b8d0c22e036dd7bb33&scene=21#wechat_redirect)   
+- 面试经验AI算法工程师(面试官角度) [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247487216&idx=1&sn=4516fd92ecd48cebb91629a0b1f3473d&chksm=f9a27c7fced5f5694608c40a8f4dce2636986d28145f073d2d8de088dd5ef3caa66423773787&scene=21#wechat_redirect)   
 - 从零基础到BAT算法岗SP——秋招准备攻略 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247485936&idx=1&sn=0e156832abdc9bfd4ee82b9b70063b3e&chksm=f9a27b7fced5f26912dd64b3c6f5a2d153068843cce378a8894ffb0ea786bcba698ef0d747f3&scene=21#wechat_redirect)   
 - 蚂蚁金服/旷视/虹软/腾讯优图暑期实习offer面经 [website](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489199&idx=3&sn=4b1f2f5033929491f56bebbc73a63e63&chksm=ebb42e7bdcc3a76d0c2c9d98f275882b9cbf852c2f32d5ab3977a670690c1150a3ab0b04aa53&scene=0&xtrack=1&key=5aa6b6fc7e8425bd24f718156836dc2e81e8283eeb1653306993c9c6816f5ba1d0415a3a95b30fdb1daf045964002a34ccb8a4f35727519df9aea73b6b87f702d2c2b2549c21f6e5360bf6929136fc5b&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=ESuAgyeBfQrIeEX8gTsQm4%2BCbjzCr74m7714n%2BShviVnNifUDKpDRrHljFR6o7iD)   
 
- 
+6. 其它
+- 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
+---
 ## 机器学习
 - 机器学习面试算法梳理 [Blog](https://www.cnblogs.com/tornadomeet/p/3395593.html)  
 - 面试官如何判断面试者的机器学习水平 [zhihu](https://www.zhihu.com/question/62482926)  
@@ -58,7 +68,7 @@
 - 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)  
 - The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) [Website](https://bestofml.com/)  
 - AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)  
-
+---
 ## 深度学习
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
 - 深度学习面试问题 [Github](https://github.com/elviswf/DeepLearningBookQA_cn)  
@@ -76,7 +86,7 @@
 - <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)  
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
 - Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)  
- 
+---
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
 - C/C++问题总结 [Github](https://github.com/linw7/Skill-Tree/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80C++.md)
@@ -85,7 +95,7 @@
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
 - learnOpencv [Github](https://github.com/spmallick/learnopencv)  
 - Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS/) [Blog](https://walkccc.github.io/CLRS/)  
-
+---
 ## Python
 - 关于Python的面试题 [Github](https://github.com/taizilongxu/interview_python)  
 - 关于Python的面试题 [Github](https://github.com/kenwoodjw/python_interview_question)  
@@ -95,7 +105,7 @@
 - All Algorithms implemented in Python [Github](https://github.com/TheAlgorithms/Python)  
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
 - wtfpython的中文翻译 [Github](https://github.com/leisurelicht/wtfpython-cn)  
-
+---
 ## 竞赛/比赛
 - [kaggle数据科学竞赛](https://www.kaggle.com/competitions)  
 - [阿里云天池比赛](https://tianchi.aliyun.com/competition/gameList/activeList)  
@@ -115,11 +125,11 @@
 - [Analytics Vidhya](https://datahack.analyticsvidhya.com/?utm_source=main-logo)  
 - [crowdAI](https://www.crowdai.org/challenges)  
 - [Data Science Challenges](https://www.datasciencechallenge.org/)  
-
+---
 ## 简历模板
 - Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)  
 - AI算法岗简历模板 [Github](https://github.com/amusi/AI-Job-Resume)  
-
+---
 ## 其它
 - 如何拿到自己满意的offer？ [Blog](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247486735&idx=1&sn=73d5b1f2daed2f84ebdfbb8b24040378&chksm=97d7e898a0a0618e94727f87742ef25a058adfa4b122936d1699f3bc58d7f4c2c9066fc616e3&mpshare=1&scene=24&srcid=01048c6NLyyTF2KFsmufQUmu&key=5aa6b6fc7e8425bd2c56dc2d40e38a5420421b970c3032c6a10340aafea634d628efc581ea514113bb3aa32ced5bd66622e00628fc4ab073d3cf26dc370b82f26d7d5fdd5183337e2fa81cf2fbc4c396&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
