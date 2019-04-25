@@ -48,8 +48,9 @@
 - 蚂蚁金服/旷视/虹软/腾讯优图暑期实习offer面经 [website](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489199&idx=3&sn=4b1f2f5033929491f56bebbc73a63e63&chksm=ebb42e7bdcc3a76d0c2c9d98f275882b9cbf852c2f32d5ab3977a670690c1150a3ab0b04aa53&scene=0&xtrack=1&key=5aa6b6fc7e8425bd24f718156836dc2e81e8283eeb1653306993c9c6816f5ba1d0415a3a95b30fdb1daf045964002a34ccb8a4f35727519df9aea73b6b87f702d2c2b2549c21f6e5360bf6929136fc5b&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=ESuAgyeBfQrIeEX8gTsQm4%2BCbjzCr74m7714n%2BShviVnNifUDKpDRrHljFR6o7iD)   
 - 我在美团的这两年（附校招笔试/面试/面经分享） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488886&idx=2&sn=492332b20d3cea34f1abc6db3bb8cbc0&chksm=976fb0eba01839fd0a3d5008ef3f9856497c81ccd7b24b54f6704cbb214c5b1c63e1994bae9e&scene=0&xtrack=1&key=06b9089f8b38a19dc32008401b357b8353893a940dacc033638bccf49fc5b677804c8eaa3a092642351bbe1946e51434390c2505086c24b7e53656d5d496007a8621d2bbaf70a1127653009d9b76b3f5&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=laGKw171mD7STlgm5UhAf8aO5%2FAa0k%2F344uX0n%2FfROga4NBnjwqA%2BHgqlB5IqA5u)   
 
-**6. 其它来源**
+**6. 其它**
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
+- Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS)  
 
 ---
 
