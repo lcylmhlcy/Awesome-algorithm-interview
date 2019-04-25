@@ -166,3 +166,4 @@
 - Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)  
 - Awesome Programming Books [Github](https://github.com/majikarp/awesome-programming-books#id-section2)  
 - Git的奇技淫巧 [Github](https://github.com/521xueweihan/git-tips)  
+- 图解人工智能 [Github](https://okai.brown.edu/zh/index.html)  
