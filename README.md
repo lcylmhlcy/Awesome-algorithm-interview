@@ -56,6 +56,9 @@
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
 - Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS)  
 - CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)  
+- awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
+- Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)  
+- 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
   
 ---
 
@@ -170,15 +173,12 @@
 ---
   
 ## 其它
-- awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
-- Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)  
 - 计算机速成课(全40集) [Github](https://github.com/1c7/crash-course-computer-science-chinese)  
 - 清华大学计算机系课程攻略 [Github](https://github.com/PKUanonym/REKCARC-TSC-UHT)  
 - 北京大学课程资料整理 [Github](https://github.com/lib-pku/libpku)  
 - 中国科学技术大学课程资源 [Github](https://github.com/USTC-Resource/USTC-Course)  
 - 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/)  
 - 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)  
-- 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
 - 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)  
 - Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)  
 - Awesome Programming Books [Github](https://github.com/majikarp/awesome-programming-books#id-section2)  
