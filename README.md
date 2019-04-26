@@ -49,11 +49,14 @@
 - 从零基础到BAT算法岗SP——秋招准备攻略 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247485936&idx=1&sn=0e156832abdc9bfd4ee82b9b70063b3e&chksm=f9a27b7fced5f26912dd64b3c6f5a2d153068843cce378a8894ffb0ea786bcba698ef0d747f3&scene=21#wechat_redirect)   
 - 蚂蚁金服/旷视/虹软/腾讯优图暑期实习offer面经 [website](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489199&idx=3&sn=4b1f2f5033929491f56bebbc73a63e63&chksm=ebb42e7bdcc3a76d0c2c9d98f275882b9cbf852c2f32d5ab3977a670690c1150a3ab0b04aa53&scene=0&xtrack=1&key=5aa6b6fc7e8425bd24f718156836dc2e81e8283eeb1653306993c9c6816f5ba1d0415a3a95b30fdb1daf045964002a34ccb8a4f35727519df9aea73b6b87f702d2c2b2549c21f6e5360bf6929136fc5b&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=ESuAgyeBfQrIeEX8gTsQm4%2BCbjzCr74m7714n%2BShviVnNifUDKpDRrHljFR6o7iD)   
 - 我在美团的这两年（附校招笔试/面试/面经分享） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488886&idx=2&sn=492332b20d3cea34f1abc6db3bb8cbc0&chksm=976fb0eba01839fd0a3d5008ef3f9856497c81ccd7b24b54f6704cbb214c5b1c63e1994bae9e&scene=0&xtrack=1&key=06b9089f8b38a19dc32008401b357b8353893a940dacc033638bccf49fc5b677804c8eaa3a092642351bbe1946e51434390c2505086c24b7e53656d5d496007a8621d2bbaf70a1127653009d9b76b3f5&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=laGKw171mD7STlgm5UhAf8aO5%2FAa0k%2F344uX0n%2FfROga4NBnjwqA%2BHgqlB5IqA5u)   
+- 1000 面试题，BAT 机器学习面试刷题宝典！ [website](https://mp.weixin.qq.com/s?__biz=MzU0OTU5OTI4MA==&mid=2247486469&idx=2&sn=14b701639794e67cc63bedea8d2870cb&chksm=fbac2d5accdba44c4930c42ee7c191d0a166c3b3cc8c5e2fa3efe6ed26a992b0cb6283a8114c&scene=0&xtrack=1&key=5121627df01c7147226b38275cec75014ec9b754942505b403947722cb8b7aea53b720546e71ea5d22312783c452de71448362f615081904c0c79cd401fb35fc5334f2a30b4f1ca1a7ddc764eea39116&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=UT934CWNmZoDZ1lVhvHOGEFisJUlIxDGPpY73e7nut1e18SYmUgrBd5XY3S4u28F)   
+- 如何拿到自己满意的offer？ [website](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247486735&idx=1&sn=73d5b1f2daed2f84ebdfbb8b24040378&chksm=97d7e898a0a0618e94727f87742ef25a058adfa4b122936d1699f3bc58d7f4c2c9066fc616e3&mpshare=1&scene=24&srcid=01048c6NLyyTF2KFsmufQUmu&key=5aa6b6fc7e8425bd2c56dc2d40e38a5420421b970c3032c6a10340aafea634d628efc581ea514113bb3aa32ced5bd66622e00628fc4ab073d3cf26dc370b82f26d7d5fdd5183337e2fa81cf2fbc4c396&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 
 **6. 其它**
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
 - Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS)  
-
+- CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)  
+  
 ---
 
 ## 机器学习
@@ -93,6 +96,7 @@
 - 深度神经网络实战技巧 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487319&idx=2&sn=35c275493f2c76a557cd5d95cbe728cc&chksm=97ea2532a09dac24d4acee0d38f6f91eee5b27ae0b0396a6186a30e26c2c515fae520013f194&mpshare=1&scene=24&srcid=0915AM36f3jIiv2An5onyGRI&key=026f558c5690f871f52a7864e791811c82fe8d67d1c3604a334a8f8a39c252cbcc03ace1a17af46a7d29333921ca82b635602f95a20b530b7e2ceb2ea411cd1e4867ece5bb7c7307ac3407bf450794e1&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - 深度学习从入门到进阶的12个经典问题及解答 [Blog](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489949&idx=2&sn=47ed40dd141c8321bb2478d64b3ec403&chksm=fbe9a052cc9e29447d99413b4bc37adbde195185aa6383166224f9935f0d318d051dd07ccd0c&scene=0&key=5121627df01c7147efe8859959f4d20b73fba95c9371f7ac9d15490736e8e5d799c882d8e8ee86f2177feec1fed1ccbad55b8aa00ea12e7c5f11d9382dc158e587fdd3f670997b791ada4fbbe9bf81e3&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - 计算机视觉知识点总结 [zhihu](https://zhuanlan.zhihu.com/p/58776542)   
+- 图解人工智能 [Github](https://okai.brown.edu/zh/index.html)  
 
 **3. 书籍**
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
@@ -108,8 +112,9 @@
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
 - Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)  
 - <Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial)  
-
+  
 ---
+  
 ## C/C++
 - C/C++面试基础知识总结 [Github](https://github.com/huihut/interview)  
 - C/C++问题总结 [Github](https://github.com/linw7/Skill-Tree/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80C++.md)
@@ -118,7 +123,11 @@
 - Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise)  
 - learnOpencv [Github](https://github.com/spmallick/learnopencv)  
 - Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS/) [Blog](https://walkccc.github.io/CLRS/)  
+- LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
+- 剑指offer第二版 [BaiduYun](https://pan.baidu.com/s/1wU-8q3Mqvr3x6Et8t77Chg)  
+  
 ---
+  
 ## Python
 - 关于Python的面试题1 [Github](https://github.com/taizilongxu/interview_python)  
 - 关于Python的面试题2 [Github](https://github.com/kenwoodjw/python_interview_question)  
@@ -129,7 +138,9 @@
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
 - wtfpython的中文翻译 [Github](https://github.com/leisurelicht/wtfpython-cn)  
 - python中文库-python人工智能大数据自动化接口测试开发。书籍下载及python库汇总 [Github](https://github.com/china-testing/python-api-tesing)  
+  
 ---
+  
 ## 竞赛/比赛
 - [kaggle数据科学竞赛](https://www.kaggle.com/competitions)  
 - [阿里云天池比赛](https://tianchi.aliyun.com/competition/gameList/activeList)  
@@ -149,17 +160,19 @@
 - [Analytics Vidhya](https://datahack.analyticsvidhya.com/?utm_source=main-logo)  
 - [crowdAI](https://www.crowdai.org/challenges)  
 - [Data Science Challenges](https://www.datasciencechallenge.org/)  
+  
 ---
+  
 ## 简历模板
 - Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)  
 - AI算法岗简历模板 [Github](https://github.com/amusi/AI-Job-Resume)  
+  
 ---
+  
 ## 其它
-- 如何拿到自己满意的offer？ [Blog](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247486735&idx=1&sn=73d5b1f2daed2f84ebdfbb8b24040378&chksm=97d7e898a0a0618e94727f87742ef25a058adfa4b122936d1699f3bc58d7f4c2c9066fc616e3&mpshare=1&scene=24&srcid=01048c6NLyyTF2KFsmufQUmu&key=5aa6b6fc7e8425bd2c56dc2d40e38a5420421b970c3032c6a10340aafea634d628efc581ea514113bb3aa32ced5bd66622e00628fc4ab073d3cf26dc370b82f26d7d5fdd5183337e2fa81cf2fbc4c396&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
-- LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
-- 计算机速成课(全40集) [Github](https://github.com/1c7/crash-course-computer-science-chinese)  
 - awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
 - Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)  
+- 计算机速成课(全40集) [Github](https://github.com/1c7/crash-course-computer-science-chinese)  
 - 清华大学计算机系课程攻略 [Github](https://github.com/PKUanonym/REKCARC-TSC-UHT)  
 - 北京大学课程资料整理 [Github](https://github.com/lib-pku/libpku)  
 - 中国科学技术大学课程资源 [Github](https://github.com/USTC-Resource/USTC-Course)  
@@ -167,8 +180,6 @@
 - 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)  
 - 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
 - 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)  
-- CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)
 - Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)  
 - Awesome Programming Books [Github](https://github.com/majikarp/awesome-programming-books#id-section2)  
 - Git的奇技淫巧 [Github](https://github.com/521xueweihan/git-tips)  
-- 图解人工智能 [Github](https://okai.brown.edu/zh/index.html)  
