@@ -26,7 +26,8 @@
 - 拼多多算法实习生面经 [nowcoder](https://www.nowcoder.com/discuss/177911)  
 - 算法岗面经传送门 [nowcoder](https://www.nowcoder.com/discuss/180976)  
 - 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)  
-- cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)   
+- cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)  
+- 小菜鸡的算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/181770) 
 
 **3. 知乎**
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
@@ -40,6 +41,7 @@
 - 小米面试总结 [Blog](https://wx.qnmlgb.tech/articles/5c55c999ce56ab804b1526cd/)  
 - 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)  
 - 算法校招经验总结(百度,阿里巴巴,腾讯,今日头条) [CSDN](https://blog.csdn.net/ML_SDD/article/details/84986528)   
+- CV计算机论文速览 [CSDN](https://me.csdn.net/u014636245)  
 
 **5. 微信公众号**
 - 阿里巴巴计算机视觉算法实习生视频面试 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488083&idx=3&sn=499149282d197c1b68d3fa105a69e271&chksm=f9a260dcced5e9ca7a86741c90b5199251b4bf02b2279b314fa3302911b8d0c22e036dd7bb33&scene=21#wechat_redirect)   
@@ -98,13 +100,14 @@
 - <动手学深度学习> [Github](https://github.com/d2l-ai/d2l-zh)  
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)  
 
-**4. 代码实战**
+**4. 代码实战 Pytorch**
 - stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)  
 - practicalAI [Github](https://github.com/GokuMohandas/practicalAI)   
 - PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)  
 - <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)  
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
 - Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)  
+- <Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial)  
 
 ---
 ## C/C++
