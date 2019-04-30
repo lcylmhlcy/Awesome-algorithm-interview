@@ -30,7 +30,8 @@
 - 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)  
 - cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)  
 - 小菜鸡的算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/181770) 
-- 机器学习/算法校招面试考点汇总 [nowcoder](https://www.nowcoder.com/discuss/165930) 
+- 机器学习/算法校招面试考点汇总 [nowcoder](https://www.nowcoder.com/discuss/165930)  
+- 计算机视觉暑期实习面经 [nowcoder](https://www.nowcoder.com/discuss/186000)  
 
 **3. 知乎**
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
@@ -108,6 +109,7 @@
 - 深度学习从入门到进阶的12个经典问题及解答 [Blog](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489949&idx=2&sn=47ed40dd141c8321bb2478d64b3ec403&chksm=fbe9a052cc9e29447d99413b4bc37adbde195185aa6383166224f9935f0d318d051dd07ccd0c&scene=0&key=5121627df01c7147efe8859959f4d20b73fba95c9371f7ac9d15490736e8e5d799c882d8e8ee86f2177feec1fed1ccbad55b8aa00ea12e7c5f11d9382dc158e587fdd3f670997b791ada4fbbe9bf81e3&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - 计算机视觉知识点总结 [zhihu](https://zhuanlan.zhihu.com/p/58776542)   
 - 图解人工智能 [Github](https://okai.brown.edu/zh/index.html)  
+- awesome-deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)  
 
 **3. 书籍**
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
@@ -116,6 +118,7 @@
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)  
 
 **4. 代码实战 Pytorch**
+- pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)    
 - Offical pytorch examples [Github](https://github.com/pytorch/examples)  
 - Offical pytorch tutorials [Github](https://github.com/pytorch/tutorials)  
 - stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)  
@@ -127,6 +130,9 @@
 - <Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial)  
 - An unofficial styleguide and best practices summary for PyTorch [Github](https://github.com/IgorSusmelj/pytorch-styleguide)  
   
+**5. 代码实战 Tensorflow**
+- TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)  
+
 ---
   
 ## C/C++
