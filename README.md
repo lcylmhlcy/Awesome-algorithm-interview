@@ -29,7 +29,7 @@
 - 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)  
 - cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)  
 - 小菜鸡的算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/181770) 
-- 机器学习/算法校招面试考点汇总 [nowcoder](hhttps://www.nowcoder.com/discuss/165930) 
+- 机器学习/算法校招面试考点汇总 [nowcoder](https://www.nowcoder.com/discuss/165930) 
 
 **3. 知乎**
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
