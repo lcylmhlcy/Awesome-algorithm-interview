@@ -13,6 +13,7 @@
 - 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes)  
 - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）[Github](https://github.com/amusi/AI-Job-Notes)  
 - 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)  
+- 「面试算法练级攻略」-「LeetCode题解」-「剑指offer题解」 [Github](https://github.com/guokaide/algorithm)  
 
 **2. 牛客网**
 - 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)  
@@ -28,6 +29,7 @@
 - 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)  
 - cv岗面经 [nowcoder](https://www.nowcoder.com/discuss/159266)  
 - 小菜鸡的算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/181770) 
+- 机器学习/算法校招面试考点汇总 [nowcoder](hhttps://www.nowcoder.com/discuss/165930) 
 
 **3. 知乎**
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
@@ -54,6 +56,7 @@
 - 机器学习与深度学习常见面试题（上） [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488694&idx=1&sn=167b8b9897165d3dcb285ffd12ff7aef&chksm=f9a26639ced5ef2ff2317437f5e4bd99ca8ed5d63378df591c8d654656bb7e2e8b262406d746&mpshare=1&scene=24&srcid=0428SfDKuYmDLZAmwecrlang&key=9a1004c4c06b26acf767311bd48d12abe9c4f22d623717fdf4c7c360532478e73b3c6283e549b97aba7f87bddf518c1e273bc4148f28ed46714e24760a11a2f57aaa6d36454cd29c631c5d0b21d298c0&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)  
 - 机器学习与深度学习常见面试题（下） [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488889&idx=1&sn=ac728edf471bcd01e62132f930b14ee3&chksm=f9a267f6ced5eee02d48255208056e2c21b6403a9b00e7ae197b7d3c85e2862a6e607009bc99&scene=0&xtrack=1&key=f7bb43d4492422e0ae8fea0c881639406030f4097e3d118f315e35dcc3e33a7658535cf021dfaf606112db121d98695883fc1bc96e0f411e30e2245ebc95c6a659fa8cf4395fab1cd78593f782063cf8&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)  
 - 完备的 AI 学习路线，最详细的资源整理！ [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488932&idx=1&sn=c827edbdff5cab57b1a5073cbb8569ef&chksm=976fb039a018392f4f6843ddd6677b9da8c321b68ac31ab974f958f00c7e80d027626d83d959&scene=0&xtrack=1&key=06b9089f8b38a19d2e2db06d5c6b94a0345d9e0b8d43b09a54ab6b8b469fd9c19eb67355f4912c2d83a95611e25848af0dac48119a087d173c1909ea1d9941670a4e6e4e481b5b1f20f0a207c899a125&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)  
+- 蚂蚁金服面经（已拿 Offer） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488943&idx=2&sn=ec0ab15e3363f7481aeb3389a04059ee&chksm=976fb032a0183924ffd8b0687a2ea2b5b09b7f87b972ae222aaf521670ef10ef0fcde13169bc&scene=0&xtrack=1&key=5aa6b6fc7e8425bd9a4faebdd50926d2310db700e77c01db295a61d7a1a82f1f208af244986bfce78e52ff3bc4c9b3b3f2136489288aeb12f5244086349e79cb3ee8da582754b5db259890358dd7a7e6&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=OZOmBOXgF7giDdzrtiEXJPsbtFeo%2Btdl1unYq481qxpY6Lb9R9%2BLn%2F9hY0ylNCn0)  
 
 **6. 其它**
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -82,7 +85,8 @@
 - The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) [Website](https://bestofml.com/)  
 - AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)  
 
-**3. 书籍**
+**3. 资料**
+- Your new Mentor for Data Science E-Learning [Github](https://github.com/clone95/Virgilio)  
 - 王斌老师翻译的<机器学习实战>书python代码实现 [Github](https://github.com/wzy6642/Machine-Learning-in-Action-Python3)  
 - PRML(python) [Github](https://github.com/ctgk/PRML)  
 - 李航博士<统计学习方法>一书中所有算法python实现 [Github](https://github.com/WenDesi/lihang_book_algorithm)  
@@ -111,6 +115,8 @@
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)  
 
 **4. 代码实战 Pytorch**
+- Offical pytorch examples [Github](https://github.com/pytorch/examples)  
+- Offical pytorch tutorials [Github](https://github.com/pytorch/tutorials)  
 - stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)  
 - practicalAI [Github](https://github.com/GokuMohandas/practicalAI)   
 - PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)  
@@ -118,6 +124,7 @@
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)  
 - Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)  
 - <Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial)  
+- An unofficial styleguide and best practices summary for PyTorch [Github](https://github.com/IgorSusmelj/pytorch-styleguide)  
   
 ---
   
