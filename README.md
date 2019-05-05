@@ -32,6 +32,8 @@
 - 小菜鸡的算法实习面经 [nowcoder](https://www.nowcoder.com/discuss/181770) 
 - 机器学习/算法校招面试考点汇总 [nowcoder](https://www.nowcoder.com/discuss/165930)  
 - 计算机视觉暑期实习面经 [nowcoder](https://www.nowcoder.com/discuss/186000)  
+- 算法岗面经（阿里云,1,2,3，交叉，hr面） [nowcoder](https://www.nowcoder.com/discuss/172079)  
+- 春招实习面经（cv算法岗） [nowcoder](https://www.nowcoder.com/discuss/183555)  
 
 **3. 知乎**
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
@@ -59,14 +61,14 @@
 - 机器学习与深度学习常见面试题（下） [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488889&idx=1&sn=ac728edf471bcd01e62132f930b14ee3&chksm=f9a267f6ced5eee02d48255208056e2c21b6403a9b00e7ae197b7d3c85e2862a6e607009bc99&scene=0&xtrack=1&key=f7bb43d4492422e0ae8fea0c881639406030f4097e3d118f315e35dcc3e33a7658535cf021dfaf606112db121d98695883fc1bc96e0f411e30e2245ebc95c6a659fa8cf4395fab1cd78593f782063cf8&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)  
 - 完备的 AI 学习路线，最详细的资源整理！ [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488932&idx=1&sn=c827edbdff5cab57b1a5073cbb8569ef&chksm=976fb039a018392f4f6843ddd6677b9da8c321b68ac31ab974f958f00c7e80d027626d83d959&scene=0&xtrack=1&key=06b9089f8b38a19d2e2db06d5c6b94a0345d9e0b8d43b09a54ab6b8b469fd9c19eb67355f4912c2d83a95611e25848af0dac48119a087d173c1909ea1d9941670a4e6e4e481b5b1f20f0a207c899a125&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)  
 - 蚂蚁金服面经（已拿 Offer） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488943&idx=2&sn=ec0ab15e3363f7481aeb3389a04059ee&chksm=976fb032a0183924ffd8b0687a2ea2b5b09b7f87b972ae222aaf521670ef10ef0fcde13169bc&scene=0&xtrack=1&key=5aa6b6fc7e8425bd9a4faebdd50926d2310db700e77c01db295a61d7a1a82f1f208af244986bfce78e52ff3bc4c9b3b3f2136489288aeb12f5244086349e79cb3ee8da582754b5db259890358dd7a7e6&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=OZOmBOXgF7giDdzrtiEXJPsbtFeo%2Btdl1unYq481qxpY6Lb9R9%2BLn%2F9hY0ylNCn0)  
+- 30家企业海投，10余家offer，我的漫漫秋招之旅 [website](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247489379&idx=3&sn=f8a11af787090f64e0ab90bca532b8ef&chksm=ec5ec81edb294108f348d3d16cec98241b181edff3d1410c6dcbfdf521d83c7cd999438c574b&scene=0&xtrack=1&key=5121627df01c7147ef35033f1af9bccbb1e31e4ccfd8dbe573c58f4089900066d7eb55d835548964bad0e6f56716f766b92505053a925e9f2696c20476226c00bdd5949a1d072fe1497335e35c1efd7e&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=UrazX6ReJtn1v8cE1ILgb8tYK6ts182gDPF0U5u640C1dpDy4DB2%2Ft9sU5PyteOB)  
 
 **6. 其它**
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
 - Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS)  
 - CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)  
-- awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
 - Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)  
-- 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
+
   
 ---
 
@@ -104,20 +106,19 @@
 - 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)  
 - Deep Learning Interview 深度学习面试题目汇总 [Github](https://github.com/ShanghaiTechAIClub/DLInterview)  
 
-**2. 知识点**
+**2. 资料**
 - 深度神经网络实战技巧 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487319&idx=2&sn=35c275493f2c76a557cd5d95cbe728cc&chksm=97ea2532a09dac24d4acee0d38f6f91eee5b27ae0b0396a6186a30e26c2c515fae520013f194&mpshare=1&scene=24&srcid=0915AM36f3jIiv2An5onyGRI&key=026f558c5690f871f52a7864e791811c82fe8d67d1c3604a334a8f8a39c252cbcc03ace1a17af46a7d29333921ca82b635602f95a20b530b7e2ceb2ea411cd1e4867ece5bb7c7307ac3407bf450794e1&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - 深度学习从入门到进阶的12个经典问题及解答 [Blog](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489949&idx=2&sn=47ed40dd141c8321bb2478d64b3ec403&chksm=fbe9a052cc9e29447d99413b4bc37adbde195185aa6383166224f9935f0d318d051dd07ccd0c&scene=0&key=5121627df01c7147efe8859959f4d20b73fba95c9371f7ac9d15490736e8e5d799c882d8e8ee86f2177feec1fed1ccbad55b8aa00ea12e7c5f11d9382dc158e587fdd3f670997b791ada4fbbe9bf81e3&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - 计算机视觉知识点总结 [zhihu](https://zhuanlan.zhihu.com/p/58776542)   
 - 图解人工智能 [Github](https://okai.brown.edu/zh/index.html)  
 - awesome-deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)  
-
-**3. 书籍**
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)  
 - 复旦大学邱锡鹏教授发布<神经网络与深度学习> [Github书](https://github.com/nndl/nndl.github.io) [Github示例代码](https://github.com/nndl/nndl-codes) [Github课程练习](https://github.com/nndl/exercise)  
 - <动手学深度学习> [Github](https://github.com/d2l-ai/d2l-zh)  
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)  
+- Awesome_Computer_Vision [Github](https://github.com/ahong007007/Awesome_Computer_Vision)  
 
-**4. 代码实战 Pytorch**
+**3. 代码实战 Pytorch**
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)    
 - Offical pytorch examples [Github](https://github.com/pytorch/examples)  
 - Offical pytorch tutorials [Github](https://github.com/pytorch/tutorials)  
@@ -129,8 +130,9 @@
 - Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)  
 - <Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial)  
 - An unofficial styleguide and best practices summary for PyTorch [Github](https://github.com/IgorSusmelj/pytorch-styleguide)  
+- fast.ai Computational Linear Algebra course [Github](https://github.com/fastai/numerical-linear-algebra)  
   
-**5. 代码实战 Tensorflow**
+**4. 代码实战 Tensorflow**
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)  
 
 ---
@@ -144,6 +146,7 @@
 - learnOpencv [Github](https://github.com/spmallick/learnopencv)  
 - Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS/) [Blog](https://walkccc.github.io/CLRS/)  
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
+- leetcode题解，记录自己的leetcode解题之路 [Github](https://github.com/azl397985856/leetcode)  
 - 剑指offer第二版 [BaiduYun](https://pan.baidu.com/s/1wU-8q3Mqvr3x6Et8t77Chg)  
 - <算法导论>的C++实现代码 [Github](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
   
@@ -191,6 +194,10 @@
 ---
   
 ## 其它
+- 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
+- awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
+- Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)  
+- Awesome Programming Books [Github](https://github.com/majikarp/awesome-programming-books#id-section2)  
 - 计算机速成课(全40集) [Github](https://github.com/1c7/crash-course-computer-science-chinese)  
 - 清华大学计算机系课程攻略 [Github](https://github.com/PKUanonym/REKCARC-TSC-UHT)  
 - 北京大学课程资料整理 [Github](https://github.com/lib-pku/libpku)  
@@ -198,6 +205,5 @@
 - 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/)  
 - 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)  
 - 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)  
-- Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)  
-- Awesome Programming Books [Github](https://github.com/majikarp/awesome-programming-books#id-section2)  
 - Git的奇技淫巧 [Github](https://github.com/521xueweihan/git-tips)  
+- 
