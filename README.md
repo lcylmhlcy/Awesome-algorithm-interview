@@ -98,6 +98,7 @@
 - <机器学习>(西瓜书)公式推导解析 [Github](https://github.com/datawhalechina/pumpkin-book)  
 - <数据科学实战>书代码 [Github](https://github.com/oreillymedia/doing_data_science)  
 - 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)  
+- 吴恩达讲授的机器学习 [Coursera](https://www.coursera.org/learn/machine-learning) [163](http://open.163.com/special/opencourse/machinelearning.html)  
 
 ---
 
@@ -119,6 +120,24 @@
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)  
 - Awesome_Computer_Vision [Github](https://github.com/ahong007007/Awesome_Computer_Vision)  
 - Deep-Learning-Papers-Reading-Roadmap [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)  
+- - 神经网络讲解视频 [YouTube](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [bilibili](http://space.bilibili.com/88461692/#/)  
+- 神经网络和深度学习的在线书籍 [website](http://neuralnetworksanddeeplearning.com/) [chinese](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/)  
+- 花书 Deep Learning 中文版 [Github](https://github.com/exacity/deeplearningbook-chinese)  
+- 吴恩达的深度学习专项系列课程(Deep Learning Specialization) [Coursera](https://www.coursera.org/specializations/deep-learning) [163](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/)  
+- [CS231n](http://cs231n.stanford.edu/) [CS224n](http://web.stanford.edu/class/cs224n/)  
+- Open AI Blog [website](https://blog.openai.com/)  
+- Distill Blog [website](https://distill.pub/)  
+- BAIR 博客 [website](http://bair.berkeley.edu/blog/)  
+- DeepMind 博客 [website](https://deepmind.com/blog/?category=research)  
+- Andrej Karpathy的博客 [website](http://karpathy.github.io/)  
+- Christopher Olah的博客 [website](http://colah.github.io/)  
+- WildML Blog [website](http://www.wildml.com/)  
+- Ruder的博客 [website](http://ruder.io/)  
+- FAIR博客 [website](https://research.fb.com/blog/)  
+- inFERENCe Blog [website](http://www.inference.vc/)  
+- Andrew Trask的博客 [website](http://iamtrask.github.io/)  
+- Graduate Descent Blog [website](http://timvieira.github.io/blog/)  
+- Adit Deshpande的博客 [website](https://adeshpande3.github.io/)  
 
 **3. 代码实战 Pytorch**
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)    
