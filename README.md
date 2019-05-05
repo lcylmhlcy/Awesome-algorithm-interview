@@ -134,6 +134,8 @@
   
 **4. 代码实战 Tensorflow**
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)  
+- tensorflow2中文教程 [Github](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)  
+- Tensorflow2教程 [Github](https://zhuanlan.zhihu.com/c_1091021863043624960)  
 
 ---
   
