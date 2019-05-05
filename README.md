@@ -6,7 +6,30 @@
 [![GitHub stars](https://img.shields.io/github/stars/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Stars)](https://github.com/lcylmhlcy/Awesome-algorithm-interview) [![GitHub forks](https://img.shields.io/github/forks/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Forks)](https://github.com/lcylmhlcy/Awesome-algorithm-interview)  
   
 ## 目录
+- [算法工程师](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88)
+  - [Github](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#1-github)
+  - [牛客网](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#2-%E7%89%9B%E5%AE%A2%E7%BD%91)
+  - [知乎](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#3-%E7%9F%A5%E4%B9%8E)
+  - [个人博客](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#4-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2)
+  - [微信公众号](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#5-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7)
+  - [其它](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#6-%E5%85%B6%E5%AE%83)
+- [机器学习](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+  - [面试问题](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#1-%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98)
+  - [资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#2-%E8%B5%84%E6%96%99)
+  - [代码实战](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#3-%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98)
+- [深度学习](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
+  - [面试](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#1-%E9%9D%A2%E8%AF%95)
+  - [资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#2-%E8%B5%84%E6%96%99)
+  - [代码实战 Pytorch](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#3-%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98-pytorch)
+  - [代码实战 Tensorflow](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#4-%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98-tensorflow)
+- [C/C++](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#cc)
+- [Python](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#python)
+- [竞赛/比赛](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#%E7%AB%9E%E8%B5%9B%E6%AF%94%E8%B5%9B)
+- [简历模板](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
+- [其它](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#%E5%85%B6%E5%AE%83)
 
+---
+---
 
 ## 算法工程师
 ### 1. Github
@@ -83,16 +106,7 @@
 - 机器学习与深度学习面试问题总结 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247486331&idx=1&sn=abc69ee44d932dd7d6bc4bbef82045c8&chksm=97ea211ea09da808a546c4a6f485f45289fea2e69cddc95aaf16f06ddfb9c428ecf9d259c980&scene=0&key=f7bb43d4492422e0472e06f4faf0076f9d9de975e8a73050e15cd63f1f549a060f9018009aa9f1f5f19aa37f1408ecb3ea2be5b8464b4eae89884e1d881c91ebef20c84ea9198fed470f36016f54c30a&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)  
 - 机器学习面试复习资源 [Github](https://github.com/wangyuGithub01/Machine_Learning_Resources)  
 
-### 2. 代码实战
-- 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
-- 100-Days-Of-ML-Code中文版 [Github](https://github.com/MLEveryday/100-Days-Of-ML-Code)  
-- Homemade Machine Learning [Github](https://github.com/trekhleb/homemade-machine-learning)  
-- Python codes for common Machine Learning Algorithms [Github](https://github.com/susanli2016/Machine-Learning-with-Python)  
-- Machine-Learning-Study-Path-March-2019 [Github](https://github.com/clone95/Machine-Learning-Study-Path-March-2019)  
-- The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) [Website](https://bestofml.com/)  
-- AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)  
-
-### 3. 资料
+### 2. 资料
 - Your new Mentor for Data Science E-Learning [Github](https://github.com/clone95/Virgilio)  
 - 王斌老师翻译的<机器学习实战>书python代码实现 [Github](https://github.com/wzy6642/Machine-Learning-in-Action-Python3)  
 - PRML(python) [Github](https://github.com/ctgk/PRML)  
@@ -101,6 +115,15 @@
 - <数据科学实战>书代码 [Github](https://github.com/oreillymedia/doing_data_science)  
 - 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)  
 - 吴恩达讲授的机器学习 [Coursera](https://www.coursera.org/learn/machine-learning) [163](http://open.163.com/special/opencourse/machinelearning.html)  
+
+### 3. 代码实战
+- 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
+- 100-Days-Of-ML-Code中文版 [Github](https://github.com/MLEveryday/100-Days-Of-ML-Code)  
+- Homemade Machine Learning [Github](https://github.com/trekhleb/homemade-machine-learning)  
+- Python codes for common Machine Learning Algorithms [Github](https://github.com/susanli2016/Machine-Learning-with-Python)  
+- Machine-Learning-Study-Path-March-2019 [Github](https://github.com/clone95/Machine-Learning-Study-Path-March-2019)  
+- The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) [Website](https://bestofml.com/)  
+- AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)  
 
 ---
 
@@ -122,7 +145,7 @@
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)  
 - Awesome_Computer_Vision [Github](https://github.com/ahong007007/Awesome_Computer_Vision)  
 - Deep-Learning-Papers-Reading-Roadmap [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)  
-- - 神经网络讲解视频 [YouTube](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [bilibili](http://space.bilibili.com/88461692/#/)  
+- 神经网络讲解视频 [YouTube](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [bilibili](http://space.bilibili.com/88461692/#/)  
 - 神经网络和深度学习的在线书籍 [website](http://neuralnetworksanddeeplearning.com/) [chinese](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/)  
 - 花书 Deep Learning 中文版 [Github](https://github.com/exacity/deeplearningbook-chinese)  
 - 吴恩达的深度学习专项系列课程(Deep Learning Specialization) [Coursera](https://www.coursera.org/specializations/deep-learning) [163](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/)  
