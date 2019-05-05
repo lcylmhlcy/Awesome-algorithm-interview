@@ -34,6 +34,7 @@
 - 计算机视觉暑期实习面经 [nowcoder](https://www.nowcoder.com/discuss/186000)  
 - 算法岗面经（阿里云,1,2,3，交叉，hr面） [nowcoder](https://www.nowcoder.com/discuss/172079)  
 - 春招实习面经（cv算法岗） [nowcoder](https://www.nowcoder.com/discuss/183555)  
+- 双非本硕算法陪跑面经 [nowcoder](https://www.nowcoder.com/discuss/186247)  
 
 **3. 知乎**
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
