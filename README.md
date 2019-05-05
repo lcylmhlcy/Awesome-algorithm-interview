@@ -150,7 +150,8 @@
 - LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation)  
 - leetcode题解，记录自己的leetcode解题之路 [Github](https://github.com/azl397985856/leetcode)  
 - 剑指offer第二版 [BaiduYun](https://pan.baidu.com/s/1wU-8q3Mqvr3x6Et8t77Chg)  
-- <算法导论>的C++实现代码 [Github](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
+- <算法导论>的C++实现代码 [Github](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)  
+- 数据结构和算法必知必会的50个代码实现 [Github](https://github.com/wangzheng0822/algo)  
   
 ---
   
