@@ -118,6 +118,7 @@
 - <动手学深度学习> [Github](https://github.com/d2l-ai/d2l-zh)  
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)  
 - Awesome_Computer_Vision [Github](https://github.com/ahong007007/Awesome_Computer_Vision)  
+- Deep-Learning-Papers-Reading-Roadmap [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)  
 
 **3. 代码实战 Pytorch**
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)    
