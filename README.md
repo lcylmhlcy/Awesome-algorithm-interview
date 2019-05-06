@@ -1,7 +1,6 @@
 # Awesome-algorithm-interview [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)   
 
 > 算法工程师(人工智能cv方向)面试问题及相关资料的网站收集  
-> 也可访问本仓库的 [Github Pages] https://lcylmhlcy.github.io/Awesome-algorithm-interview/
 
 [![GitHub stars](https://img.shields.io/github/stars/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Stars)](https://github.com/lcylmhlcy/Awesome-algorithm-interview) [![GitHub forks](https://img.shields.io/github/forks/lcylmhlcy/Awesome-algorithm-interview.svg?style=social&label=Forks)](https://github.com/lcylmhlcy/Awesome-algorithm-interview)  
   
