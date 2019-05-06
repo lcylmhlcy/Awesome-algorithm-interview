@@ -200,6 +200,7 @@
 - 剑指offer第二版 [BaiduYun](https://pan.baidu.com/s/1wU-8q3Mqvr3x6Et8t77Chg)  
 - <算法导论>的C++实现代码 [Github](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)  
 - 数据结构和算法必知必会的50个代码实现 [Github](https://github.com/wangzheng0822/algo)  
+- Play Leetcode with different Programming language [Github](https://github.com/luliyucoordinate/Leetcode)  
   
 ---
   
@@ -257,3 +258,4 @@
 - 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)  
 - 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)  
 - Git的奇技淫巧 [Github](https://github.com/521xueweihan/git-tips)  
+- GitHub 漫游指南 [Github](https://github.com/phodal/github)  
