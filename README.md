@@ -61,6 +61,7 @@
 - 春招实习面经（cv算法岗） [nowcoder](https://www.nowcoder.com/discuss/183555)  
 - 双非本硕算法陪跑面经 [nowcoder](https://www.nowcoder.com/discuss/186247)  
 - 2018春招科大讯飞，华为，神策数据，今日头条面经 [nowcoder](https://www.nowcoder.com/discuss/75136?type=2&order=3&pos=254&page=1)  
+- 2020届渣硕春招实习总结-算法岗（计算机视觉） [nowcoder](https://www.nowcoder.com/discuss/186113)  
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
@@ -116,6 +117,7 @@
 - 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)  
 - 吴恩达讲授的机器学习 [Coursera](https://www.coursera.org/learn/machine-learning) [163](http://open.163.com/special/opencourse/machinelearning.html)  
 - Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS)  
+- Data-Science--Cheat-Sheet [Github](https://github.com/abhat222/Data-Science--Cheat-Sheet)  
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
