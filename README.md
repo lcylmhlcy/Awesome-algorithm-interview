@@ -166,6 +166,7 @@
 - Andrew Trask的博客 [website](http://iamtrask.github.io/)  
 - Graduate Descent Blog [website](http://timvieira.github.io/blog/)  
 - Adit Deshpande的博客 [website](https://adeshpande3.github.io/)  
+- ML/DL学习笔记（基础+论文） [website](https://github.com/lartpang/Machine-Deep-Learning)  
 
 ### 3. 代码实战 Pytorch
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)    
