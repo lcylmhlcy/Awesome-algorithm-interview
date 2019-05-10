@@ -96,6 +96,7 @@
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
 - Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS)  
 - CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)  
+- CV领域Paper论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/58860096)  
 - Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)  
 
 ---
@@ -182,6 +183,7 @@
 - <Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial)  
 - An unofficial styleguide and best practices summary for PyTorch [Github](https://github.com/IgorSusmelj/pytorch-styleguide)  
 - fast.ai Computational Linear Algebra course [Github](https://github.com/fastai/numerical-linear-algebra)  
+- Awesome-PyTorch-Chinese [Github](https://github.com/INTERMT/Awesome-PyTorch-Chinese)  
   
 ### 4. 代码实战 Tensorflow
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)  
