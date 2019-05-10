@@ -62,6 +62,7 @@
 - 双非本硕算法陪跑面经 [nowcoder](https://www.nowcoder.com/discuss/186247)  
 - 2018春招科大讯飞，华为，神策数据，今日头条面经 [nowcoder](https://www.nowcoder.com/discuss/75136?type=2&order=3&pos=254&page=1)  
 - 2020届渣硕春招实习总结-算法岗（计算机视觉） [nowcoder](https://www.nowcoder.com/discuss/186113)  
+- 爱奇艺深度学习算法实习生面经 [nowcoder](https://www.nowcoder.com/discuss/185614)  
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
