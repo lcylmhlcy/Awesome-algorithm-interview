@@ -133,6 +133,7 @@
 - Machine-Learning-Study-Path-March-2019 [Github](https://github.com/clone95/Machine-Learning-Study-Path-March-2019)  
 - The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) [Website](https://bestofml.com/)  
 - AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)  
+- A Machine Learning Course with Python [Github](hhttps://github.com/machinelearningmindset/machine-learning-course)  
 
 ---
 
@@ -173,6 +174,7 @@
 - Graduate Descent Blog [website](http://timvieira.github.io/blog/)  
 - Adit Deshpande的博客 [website](https://adeshpande3.github.io/)  
 - ML/DL学习笔记（基础+论文） [website](https://github.com/lartpang/Machine-Deep-Learning)  
+- 深度神经网络中的一些模型 进行统一的图示 [Github](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)  
 
 ### 3. 代码实战 Pytorch
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)    
