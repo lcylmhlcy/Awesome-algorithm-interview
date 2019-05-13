@@ -64,6 +64,7 @@
 - 2020届渣硕春招实习总结-算法岗（计算机视觉） [nowcoder](https://www.nowcoder.com/discuss/186113)  
 - 爱奇艺深度学习算法实习生面经 [nowcoder](https://www.nowcoder.com/discuss/185614)  
 - 阿里，旷视，亚马逊，谷歌面经 [nowcoder](https://www.nowcoder.com/discuss/172693)  
+- 算法菜鸟的春招之路 [nowcoder](https://www.nowcoder.com/discuss/188295)  
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
@@ -71,6 +72,7 @@
 - 字节跳动计算机视觉算法实习生视频面试 [zhihu](https://zhuanlan.zhihu.com/p/59270912)   
 - 2019秋招算法面经 [zhihu](https://zhuanlan.zhihu.com/p/42936891)   
 - CVTE视觉计算岗实习面经 [zhihu](https://zhuanlan.zhihu.com/p/59223324)   
+- 互联网公司最常见的面试算法题有哪些？ [zhihu](https://www.zhihu.com/question/24964987/answer/586425979)   
 
 ### 4. 个人博客
 - AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)  
@@ -92,6 +94,7 @@
 - 完备的 AI 学习路线，最详细的资源整理！ [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488932&idx=1&sn=c827edbdff5cab57b1a5073cbb8569ef&chksm=976fb039a018392f4f6843ddd6677b9da8c321b68ac31ab974f958f00c7e80d027626d83d959&scene=0&xtrack=1&key=06b9089f8b38a19d2e2db06d5c6b94a0345d9e0b8d43b09a54ab6b8b469fd9c19eb67355f4912c2d83a95611e25848af0dac48119a087d173c1909ea1d9941670a4e6e4e481b5b1f20f0a207c899a125&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=iqu0jGzZHsjPTDJlLkm0O7uj41FuEikyiBNBZJTYuu65wgzAYk%2Bp3HNofRkaEx1J)  
 - 蚂蚁金服面经（已拿 Offer） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247488943&idx=2&sn=ec0ab15e3363f7481aeb3389a04059ee&chksm=976fb032a0183924ffd8b0687a2ea2b5b09b7f87b972ae222aaf521670ef10ef0fcde13169bc&scene=0&xtrack=1&key=5aa6b6fc7e8425bd9a4faebdd50926d2310db700e77c01db295a61d7a1a82f1f208af244986bfce78e52ff3bc4c9b3b3f2136489288aeb12f5244086349e79cb3ee8da582754b5db259890358dd7a7e6&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=OZOmBOXgF7giDdzrtiEXJPsbtFeo%2Btdl1unYq481qxpY6Lb9R9%2BLn%2F9hY0ylNCn0)  
 - 30家企业海投，10余家offer，我的漫漫秋招之旅 [website](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247489379&idx=3&sn=f8a11af787090f64e0ab90bca532b8ef&chksm=ec5ec81edb294108f348d3d16cec98241b181edff3d1410c6dcbfdf521d83c7cd999438c574b&scene=0&xtrack=1&key=5121627df01c7147ef35033f1af9bccbb1e31e4ccfd8dbe573c58f4089900066d7eb55d835548964bad0e6f56716f766b92505053a925e9f2696c20476226c00bdd5949a1d072fe1497335e35c1efd7e&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=UrazX6ReJtn1v8cE1ILgb8tYK6ts182gDPF0U5u640C1dpDy4DB2%2Ft9sU5PyteOB)  
+- BAT 三连挂是什么体验？硕士小姐姐讲述心酸血泪史！ [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247489196&idx=1&sn=5dfd26065bd8c1ff1cc9b43d3409aff1&chksm=976fb331a0183a2702db877ceab3786ed98a05e02681d051a7be31d8aff897b1c1a51b6d57ad&scene=0&xtrack=1&key=96e38258b65ecb9be54f6002a8d8c812dc8faf5cc224160eae5f2901a3284431f5fcbfb77fc2734e3777c3c1548352414a61e2dc8fc455f08f0c5c850de73d5a0c428b905f0db440f10ef765c6cacc64&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=eLoyWxAMmRP8tTN2FpKEZENTLtDXwjBWG5BgqeCrcHcqS31qaU47ROH3%2FW7pIZWt)  
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -207,6 +210,7 @@
 - <算法导论>的C++实现代码 [Github](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)  
 - 数据结构和算法必知必会的50个代码实现 [Github](https://github.com/wangzheng0822/algo)  
 - Play Leetcode with different Programming language [Github](https://github.com/luliyucoordinate/Leetcode)  
+- leetcode [Github](https://github.com/azl397985856/leetcode)  
   
 ---
   
