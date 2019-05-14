@@ -125,6 +125,7 @@
 - 吴恩达讲授的机器学习 [Coursera](https://www.coursera.org/learn/machine-learning) [163](http://open.163.com/special/opencourse/machinelearning.html)  
 - Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS)  
 - Data-Science--Cheat-Sheet [Github](https://github.com/abhat222/Data-Science--Cheat-Sheet)  
+- Data Science Crash Course [Github](https://maria-antoniak.github.io/2018/11/19/data-science-crash-course.html)  
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
