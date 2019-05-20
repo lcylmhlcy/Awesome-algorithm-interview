@@ -200,6 +200,7 @@
 - tensorflow2中文教程 [Github](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)  
 - Tensorflow2教程 [Github](https://zhuanlan.zhihu.com/c_1091021863043624960)  
 - Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2)  
+- TensorFlow 中文资源全集 [Gitee](https://gitee.com/fendouai/Awesome-TensorFlow-Chinese)  
 
 ---
   
