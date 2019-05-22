@@ -219,6 +219,7 @@
 - 数据结构和算法必知必会的50个代码实现 [Github](https://github.com/wangzheng0822/algo)  
 - Play Leetcode with different Programming language [Github](https://github.com/luliyucoordinate/Leetcode)  
 - leetcode [Github](https://github.com/azl397985856/leetcode)  
+- algorithm-visualizer [Github](https://github.com/algorithm-visualizer/algorithm-visualizer)  
   
 ---
   
