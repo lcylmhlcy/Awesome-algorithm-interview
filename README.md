@@ -41,6 +41,7 @@
 - 「面试算法练级攻略」-「LeetCode题解」-「剑指offer题解」 [Github](https://github.com/guokaide/algorithm)  
 - MVision-awesome [Github](https://github.com/Ewenwan/MVision)  
 - 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)  
+- Daily Interview [Github](https://github.com/datawhalechina/Daily-interview)  
 
 ### 2. 牛客网
 - 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)  
@@ -99,6 +100,7 @@
 - 30家企业海投，10余家offer，我的漫漫秋招之旅 [website](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247489379&idx=3&sn=f8a11af787090f64e0ab90bca532b8ef&chksm=ec5ec81edb294108f348d3d16cec98241b181edff3d1410c6dcbfdf521d83c7cd999438c574b&scene=0&xtrack=1&key=5121627df01c7147ef35033f1af9bccbb1e31e4ccfd8dbe573c58f4089900066d7eb55d835548964bad0e6f56716f766b92505053a925e9f2696c20476226c00bdd5949a1d072fe1497335e35c1efd7e&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=UrazX6ReJtn1v8cE1ILgb8tYK6ts182gDPF0U5u640C1dpDy4DB2%2Ft9sU5PyteOB)  
 - BAT 三连挂是什么体验？硕士小姐姐讲述心酸血泪史！ [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247489196&idx=1&sn=5dfd26065bd8c1ff1cc9b43d3409aff1&chksm=976fb331a0183a2702db877ceab3786ed98a05e02681d051a7be31d8aff897b1c1a51b6d57ad&scene=0&xtrack=1&key=96e38258b65ecb9be54f6002a8d8c812dc8faf5cc224160eae5f2901a3284431f5fcbfb77fc2734e3777c3c1548352414a61e2dc8fc455f08f0c5c850de73d5a0c428b905f0db440f10ef765c6cacc64&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=eLoyWxAMmRP8tTN2FpKEZENTLtDXwjBWG5BgqeCrcHcqS31qaU47ROH3%2FW7pIZWt)  
 - 数据科学&机器学习基础面试题 [website](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484547&idx=2&sn=1f9cfeee41f80623edc493d293d4e1b8&chksm=e870d5cedf075cd886afbee37b79c85dce16f5ae43d300331c5f29e0d64c32b030b621beddaa&scene=0&xtrack=1&key=96e38258b65ecb9b9b652831c3f84574b2f25e7020610c534b933a65b3b61a0cd4a0db2b54d14a128c5e7e8136e59893ae61ee9c06580040a3c7fab669f919f48e749ca1d0f8be9f7295ffed179a4acc&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=M%2Bx4I8699jpuE4n781eOB5axXkLS0Mu7Zrtx6Vi8JsVQhUxr6%2F6aCUmOC8WZybav)  
+- 计算机视觉、算法岗实习面经（阿里/格灵深瞳/南京地平线机器人） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247489566&idx=2&sn=c80be1ba406ccebf43a46db80660a4f1&chksm=976fbd83a0183495acd5bfa788d2ea286eb04249693559309f72e0082e61fab57a3300604270&scene=0&xtrack=1&key=7fca267e209412d9b05c556b42b9a0fe270a7ed740b566281d6a3e47747e97719c66e9f6e9177328b90305a7c54d43a85e73d8eace23e076bb985468996179aa9caed02092d455a2536c605568ff1a75&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j%2BeTr3gGhtYbB5BELmEqEDAsSEIlbJT1JSozWqEv2dcR7%2FxLFyvlo4SOAEZG3VMy)  
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -129,6 +131,7 @@
 - Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS)  
 - Data-Science--Cheat-Sheet [Github](https://github.com/abhat222/Data-Science--Cheat-Sheet)  
 - Data Science Crash Course [Github](https://maria-antoniak.github.io/2018/11/19/data-science-crash-course.html)  
+- List of Data Science Cheatsheets to rule the world [Github](https://github.com/FavioVazquez/ds-cheatsheets)  
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
