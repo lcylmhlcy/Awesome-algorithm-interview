@@ -36,7 +36,7 @@
 - 算法工程师面试 [Github](https://github.com/PPshrimpGo/AIinterview)  
 - 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience)  
 - 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes)  
-- AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）[Github](https://github.com/amusi/AI-Job-Notes) [amusi also has good information](https://github.com/amusi)  
+- AI算法岗求职攻略 [Github](https://github.com/amusi/AI-Job-Notes) [(amusi)](https://github.com/amusi)  
 - 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)  
 - 「面试算法练级攻略」-「LeetCode题解」-「剑指offer题解」 [Github](https://github.com/guokaide/algorithm)  
 - MVision-awesome [Github](https://github.com/Ewenwan/MVision)  
