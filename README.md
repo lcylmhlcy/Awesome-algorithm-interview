@@ -69,6 +69,7 @@
 - 算法菜鸟的春招之路 [nowcoder](https://www.nowcoder.com/discuss/188295)  
 - 机器学习算法面经（腾讯阿里网易） [nowcoder](https://www.nowcoder.com/discuss/75166?type=2&order=3&pos=250&page=1)  
 - 实习算法岗血泪面经，商汤，旷世，阿里，字节跳动 [nowcoder](https://www.nowcoder.com/discuss/192689?type=2)  
+- 机器学习/数据挖掘岗2019秋招总结 [nowcoder](https://www.nowcoder.com/discuss/138721)  
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
