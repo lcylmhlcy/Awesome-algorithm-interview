@@ -239,6 +239,7 @@
 - Improve your Python by fixing errors [Github](https://github.com/qxf2/wtfiswronghere)  
 - wtfpython的中文翻译 [Github](https://github.com/leisurelicht/wtfpython-cn)  
 - python中文库-python人工智能大数据自动化接口测试开发。书籍下载及python库汇总 [Github](https://github.com/china-testing/python-api-tesing)  
+- Python面试都在这里了【315+道题】 [Blog](https://www.cnblogs.com/wupeiqi/p/9078770.html)  
   
 ---
   
