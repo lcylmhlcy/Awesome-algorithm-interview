@@ -70,6 +70,7 @@
 - 机器学习算法面经（腾讯阿里网易） [nowcoder](https://www.nowcoder.com/discuss/75166?type=2&order=3&pos=250&page=1)  
 - 实习算法岗血泪面经，商汤，旷世，阿里，字节跳动 [nowcoder](https://www.nowcoder.com/discuss/192689?type=2)  
 - 机器学习/数据挖掘岗2019秋招总结 [nowcoder](https://www.nowcoder.com/discuss/138721)  
+- 算法面经（阿里、腾讯、美团等） [nowcoder](https://www.nowcoder.com/discuss/77924?type=2&order=3&pos=195&page=1)  
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
@@ -102,6 +103,7 @@
 - BAT 三连挂是什么体验？硕士小姐姐讲述心酸血泪史！ [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247489196&idx=1&sn=5dfd26065bd8c1ff1cc9b43d3409aff1&chksm=976fb331a0183a2702db877ceab3786ed98a05e02681d051a7be31d8aff897b1c1a51b6d57ad&scene=0&xtrack=1&key=96e38258b65ecb9be54f6002a8d8c812dc8faf5cc224160eae5f2901a3284431f5fcbfb77fc2734e3777c3c1548352414a61e2dc8fc455f08f0c5c850de73d5a0c428b905f0db440f10ef765c6cacc64&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=eLoyWxAMmRP8tTN2FpKEZENTLtDXwjBWG5BgqeCrcHcqS31qaU47ROH3%2FW7pIZWt)  
 - 数据科学&机器学习基础面试题 [website](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484547&idx=2&sn=1f9cfeee41f80623edc493d293d4e1b8&chksm=e870d5cedf075cd886afbee37b79c85dce16f5ae43d300331c5f29e0d64c32b030b621beddaa&scene=0&xtrack=1&key=96e38258b65ecb9b9b652831c3f84574b2f25e7020610c534b933a65b3b61a0cd4a0db2b54d14a128c5e7e8136e59893ae61ee9c06580040a3c7fab669f919f48e749ca1d0f8be9f7295ffed179a4acc&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=M%2Bx4I8699jpuE4n781eOB5axXkLS0Mu7Zrtx6Vi8JsVQhUxr6%2F6aCUmOC8WZybav)  
 - 计算机视觉、算法岗实习面经（阿里/格灵深瞳/南京地平线机器人） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247489566&idx=2&sn=c80be1ba406ccebf43a46db80660a4f1&chksm=976fbd83a0183495acd5bfa788d2ea286eb04249693559309f72e0082e61fab57a3300604270&scene=0&xtrack=1&key=7fca267e209412d9b05c556b42b9a0fe270a7ed740b566281d6a3e47747e97719c66e9f6e9177328b90305a7c54d43a85e73d8eace23e076bb985468996179aa9caed02092d455a2536c605568ff1a75&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j%2BeTr3gGhtYbB5BELmEqEDAsSEIlbJT1JSozWqEv2dcR7%2FxLFyvlo4SOAEZG3VMy)  
+- 面经 | 挂两次腾讯面试的春招教训 [website](https://mp.weixin.qq.com/s?__biz=MzI3NTUwNzMwNA==&mid=2247490123&idx=2&sn=d772fca22b24da33d2d37dcbd3e8ccf8&chksm=eb02eb4cdc75625a87587062c021fd55a0d52b661708fb8ea7ea2c45348aaf45612f5b5a67f1&scene=0&xtrack=1&key=c057d35eab709d255cd973af834e8e7fed12a361e2f9a7f994792b52fe5d0219e5b61ec11a0082ec6d688698b154581151a78facfedbc3e18bd93873a3b2a5262d11d9a9786af2e35e149c4e45048e25&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=iyLHjIA5wZnXmOS0ABLcY2XLov463bca6oRsGuW4BP5gLfODXfelBPUorCcfy5LY)  
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -272,6 +274,7 @@
 ---
   
 ## 其它
+- 博士生在没有导师指导的情况下，该如何自己选题发 CVPR [zhihu](https://www.zhihu.com/question/64566768)  
 - 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)  
 - awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)  
 - Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)  
