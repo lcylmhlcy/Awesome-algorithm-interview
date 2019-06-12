@@ -71,6 +71,7 @@
 - 实习算法岗血泪面经，商汤，旷世，阿里，字节跳动 [nowcoder](https://www.nowcoder.com/discuss/192689?type=2)  
 - 机器学习/数据挖掘岗2019秋招总结 [nowcoder](https://www.nowcoder.com/discuss/138721)  
 - 算法面经（阿里、腾讯、美团等） [nowcoder](https://www.nowcoder.com/discuss/77924?type=2&order=3&pos=195&page=1)  
+- 春招秋招算法机器学习岗面经（阿里、腾讯、美团、携程） [nowcoder](https://www.nowcoder.com/discuss/106725)  
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
@@ -79,6 +80,7 @@
 - 2019秋招算法面经 [zhihu](https://zhuanlan.zhihu.com/p/42936891)   
 - CVTE视觉计算岗实习面经 [zhihu](https://zhuanlan.zhihu.com/p/59223324)   
 - 互联网公司最常见的面试算法题有哪些？ [zhihu](https://www.zhihu.com/question/24964987/answer/586425979)   
+- 计算机视觉（cv）方向今年招聘情况怎么样?是否已经人才过剩? [zhihu](https://www.zhihu.com/question/293700785)   
 
 ### 4. 个人博客
 - AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)  
