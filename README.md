@@ -72,6 +72,7 @@
 - 机器学习/数据挖掘岗2019秋招总结 [nowcoder](https://www.nowcoder.com/discuss/138721)  
 - 算法面经（阿里、腾讯、美团等） [nowcoder](https://www.nowcoder.com/discuss/77924?type=2&order=3&pos=195&page=1)  
 - 春招秋招算法机器学习岗面经（阿里、腾讯、美团、携程） [nowcoder](https://www.nowcoder.com/discuss/106725)  
+- 春招（附面经） [nowcoder](https://www.nowcoder.com/discuss/79729) 
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)  
