@@ -273,6 +273,7 @@
 ## 简历模板
 - Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)  
 - AI算法岗简历模板 [Github](https://github.com/amusi/AI-Job-Resume)  
+- 个人简历模板 [Github](https://github.com/ikym/resume)  
   
 ---
   
