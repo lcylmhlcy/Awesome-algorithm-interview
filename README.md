@@ -21,6 +21,7 @@
   - [资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#2-%E8%B5%84%E6%96%99)
   - [代码实战 Pytorch](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#3-%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98-pytorch)
   - [代码实战 Tensorflow](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#4-%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98-tensorflow)
+  - [网课（免费）](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#5-%E7%BD%91%E8%AF%BE%E5%85%8D%E8%B4%B9)
 - [C/C++](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#cc)
 - [Python](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#python)
 - [竞赛/比赛](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#%E7%AB%9E%E8%B5%9B%E6%AF%94%E8%B5%9B)
