@@ -153,7 +153,8 @@
 
 ---
 
-## 深度学习
+## 深度学习  
+**注：百度 “如何使用google免费gpu” ，每个人单卡14G Telsa T4，需要[科学上网](https://github.com/getlantern/lantern)**
 ### 1. 面试
 - 深度学习面试问题 [Github](https://github.com/elviswf/DeepLearningBookQA_cn)  
 - 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)  
@@ -213,6 +214,17 @@
 - Tensorflow2教程 [Github](https://zhuanlan.zhihu.com/c_1091021863043624960)  
 - Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2)  
 - TensorFlow 中文资源全集 [Gitee](https://gitee.com/fendouai/Awesome-TensorFlow-Chinese)  
+  
+### 5. 网课（免费）
+- 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
+- 统计机器学习 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1692004)
+- 机器学习导论 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1694003)
+- 吴恩达 深度学习工程师 [网易云课堂](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+- 计算机视觉基础入门课程（从算法到实战应用） [AI研习社](http://www.mooc.ai/course/353)
+- 卡耐基梅隆大学 2018 秋季《深度学习导论》 [AI研习社](http://www.mooc.ai/course/562)
+- CS224n 斯坦福深度自然语言处理课  [AI研习社](http://www.mooc.ai/course/494)
+- 2018 MIT 6.S094 麻省理工深度学习和自动驾驶课程  [AI研习社](http://www.mooc.ai/course/483)
+- https://www.coursera.org
 
 ---
   
