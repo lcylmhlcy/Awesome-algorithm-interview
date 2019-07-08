@@ -21,7 +21,7 @@
   - [资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#2-%E8%B5%84%E6%96%99)
   - [代码实战 Pytorch](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#3-%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98-pytorch)
   - [代码实战 Tensorflow](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#4-%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98-tensorflow)
-  - [网课（免费）](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#5-%E7%BD%91%E8%AF%BE%E5%85%8D%E8%B4%B9)
+  - [网课](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#5-%E7%BD%91%E8%AF%BE%E5%85%8D%E8%B4%B9)
 - [C/C++](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#cc)
 - [Python](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#python)
 - [竞赛/比赛](https://github.com/lcylmhlcy/Awesome-algorithm-interview/blob/master/README.md#%E7%AB%9E%E8%B5%9B%E6%AF%94%E8%B5%9B)
@@ -141,6 +141,7 @@
 - Data-Science--Cheat-Sheet [Github](https://github.com/abhat222/Data-Science--Cheat-Sheet)  
 - Data Science Crash Course [Github](https://maria-antoniak.github.io/2018/11/19/data-science-crash-course.html)  
 - List of Data Science Cheatsheets to rule the world [Github](https://github.com/FavioVazquez/ds-cheatsheets)  
+- Your new Mentor for Data Science E-Learning. [Github](https://github.com/virgili0/Virgilio)  
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)  
@@ -150,7 +151,8 @@
 - Machine-Learning-Study-Path-March-2019 [Github](https://github.com/clone95/Machine-Learning-Study-Path-March-2019)  
 - The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) [Website](https://bestofml.com/)  
 - AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)  
-- A Machine Learning Course with Python [Github](hhttps://github.com/machinelearningmindset/machine-learning-course)  
+- A Machine Learning Course with Python [Github](https://github.com/machinelearningmindset/machine-learning-course)  
+- Machine learning, in numpy [Github](https://github.com/ddbourgin/numpy-ml)  
 
 ---
 
@@ -193,6 +195,7 @@
 - Adit Deshpande的博客 [website](https://adeshpande3.github.io/)  
 - ML/DL学习笔记（基础+论文） [website](https://github.com/lartpang/Machine-Deep-Learning)  
 - 深度神经网络中的一些模型 进行统一的图示 [Github](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)  
+- five-days deep learning [website](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html) [Github](https://github.com/mlelarge/dataflowr)
 
 ### 3. 代码实战 Pytorch
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)    
@@ -216,7 +219,7 @@
 - Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2)  
 - TensorFlow 中文资源全集 [Gitee](https://gitee.com/fendouai/Awesome-TensorFlow-Chinese)  
   
-### 5. 网课（免费）
+### 5. 网课
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
 - 统计机器学习 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1692004)
 - 机器学习导论 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1694003)
@@ -226,6 +229,10 @@
 - CS224n 斯坦福深度自然语言处理课  [AI研习社](http://www.mooc.ai/course/494)
 - 2018 MIT 6.S094 麻省理工深度学习和自动驾驶课程  [AI研习社](http://www.mooc.ai/course/483)
 - https://www.coursera.org
+- Deep Learning: Advanced Computer Vision [udemy](https://www.udemy.com/advanced-computer-vision/)
+- Computer Vision Certification by State University of New York [coursera](https://www.coursera.org/specializations/computervision)
+- Convolutional Neural Networks [coursera](https://www.coursera.org/learn/convolutional-neural-networks)
+- Deep Learning and Computer Vision A-Z: OpenCV, SSD & GANs [udemy](https://www.udemy.com/course/computer-vision-a-z/)
 
 ---
   
