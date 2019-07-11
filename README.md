@@ -134,6 +134,7 @@
 - 王斌老师翻译的<机器学习实战>书python代码实现 [Github](https://github.com/wzy6642/Machine-Learning-in-Action-Python3)  
 - PRML(python) [Github](https://github.com/ctgk/PRML)  
 - 李航博士<统计学习方法>一书中所有算法python实现 [Github](https://github.com/WenDesi/lihang_book_algorithm)  
+- <统计学习方法>第二版的代码实现 [Github](https://github.com/fengdu78/lihang-code)  
 - <机器学习>(西瓜书)公式推导解析 [Github](https://github.com/datawhalechina/pumpkin-book)  
 - <数据科学实战>书代码 [Github](https://github.com/oreillymedia/doing_data_science)  
 - 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning)  
