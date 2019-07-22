@@ -195,9 +195,11 @@
 - Andrew Trask的博客 [website](http://iamtrask.github.io/)
 - Graduate Descent Blog [website](http://timvieira.github.io/blog/)
 - Adit Deshpande的博客 [website](https://adeshpande3.github.io/)
-- ML/DL学习笔记（基础+论文） [website](https://github.com/lartpang/Machine-Deep-Learning)
+- ML/DL学习笔记（基础+论文） [Github](https://github.com/lartpang/Machine-Deep-Learning)
 - 深度神经网络中的一些模型 进行统一的图示 [Github](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)
 - five-days deep learning [website](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html) [Github](https://github.com/mlelarge/dataflowr)
+- Learn_Computer_Vision [Github](https://github.com/llSourcell/Learn_Computer_Vision)
+- Explaining the Math of how neural networks learn [Github](https://github.com/omar-florez/scratch_mlp)
 
 ### 3. 代码实战 Pytorch
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
