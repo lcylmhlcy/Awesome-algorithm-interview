@@ -120,6 +120,7 @@
 - CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)
 - CV领域Paper论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/58860096)
 - Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)
+- Everything you need to prepare for your technical interview [Github](https://github.com/andreis/interview)
 
 ---
 
@@ -277,6 +278,7 @@
 - python中文库-python人工智能大数据自动化接口测试开发。书籍下载及python库汇总 [Github](https://github.com/china-testing/python-api-tesing)  
 - Python面试都在这里了【315+道题】 [Blog](https://www.cnblogs.com/wupeiqi/p/9078770.html)
 - The Beauty of Python Programming [Github](https://github.com/ethan-funny/explore-python)
+- Python - 100天从新手到大师 [Github](https://github.com/jackfrued/Python-100-Days)
   
 ---
   
@@ -324,3 +326,4 @@
 - 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)
 - Git的奇技淫巧 [Github](https://github.com/521xueweihan/git-tips)
 - GitHub 漫游指南 [Github](https://github.com/phodal/github)
+- A complete computer science study plan to become a software engineer. [Github](https://github.com/jwasham/coding-interview-university)
