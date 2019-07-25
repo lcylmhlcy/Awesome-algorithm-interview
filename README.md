@@ -279,6 +279,7 @@
 - Python面试都在这里了【315+道题】 [Blog](https://www.cnblogs.com/wupeiqi/p/9078770.html)
 - The Beauty of Python Programming [Github](https://github.com/ethan-funny/explore-python)
 - Python - 100天从新手到大师 [Github](https://github.com/jackfrued/Python-100-Days)
+- 在 Windows 上使用 Python 进行开发 [Blog](https://docs.microsoft.com/zh-cn/windows/python/)
   
 ---
   
