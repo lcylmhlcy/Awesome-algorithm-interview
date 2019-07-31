@@ -325,6 +325,5 @@
 - 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/)
 - 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles)
 - 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki)
-- Git的奇技淫巧 [Github](https://github.com/521xueweihan/git-tips)
-- GitHub 漫游指南 [Github](https://github.com/phodal/github)
 - A complete computer science study plan to become a software engineer. [Github](https://github.com/jwasham/coding-interview-university)
+- Curated list of resources for college students [Github](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
