@@ -147,6 +147,7 @@
 - Data Science Crash Course [Github](https://maria-antoniak.github.io/2018/11/19/data-science-crash-course.html)
 - List of Data Science Cheatsheets to rule the world [Github](https://github.com/FavioVazquez/ds-cheatsheets)
 - Your new Mentor for Data Science E-Learning. [Github](https://github.com/virgili0/Virgilio)
+- Python3 入门机器学习 [Github](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)
