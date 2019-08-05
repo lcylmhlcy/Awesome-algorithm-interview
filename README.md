@@ -148,6 +148,8 @@
 - List of Data Science Cheatsheets to rule the world [Github](https://github.com/FavioVazquez/ds-cheatsheets)
 - Your new Mentor for Data Science E-Learning. [Github](https://github.com/virgili0/Virgilio)
 - Python3 入门机器学习 [Github](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
+- DrWhy is the collection of tools for Explainable AI (XAI) [Github](https://github.com/ModelOriented/DrWhy)
+- Fit interpretable models. Explain blackbox machine learning. [Github](https://github.com/jwasham/coding-interview-university)
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)
@@ -159,6 +161,7 @@
 - AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)
 - A Machine Learning Course with Python [Github](https://github.com/machinelearningmindset/machine-learning-course)
 - Machine learning, in numpy [Github](https://github.com/ddbourgin/numpy-ml)
+- A complete computer science study plan to become a software engineer. [Github](https://github.com/ddbourgin/numpy-ml)
 
 ---
 
@@ -204,6 +207,7 @@
 - Explaining the Math of how neural networks learn [Github](https://github.com/omar-florez/scratch_mlp)
 - 【微软】AI-神经网络基本原理简明教程 [Github](https://github.com/microsoft/ai-edu/tree/master/)
 - 深度学习手册 [BaiduYun](https://pan.baidu.com/s/1ew3aVZizVkPVKUFx2AtDjw) pw:dy6h
+- - An educational resource to help anyone learn deep reinforcement learning [Github](https://github.com/openai/spinningup)
 
 ### 3. 代码实战 Pytorch
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
@@ -219,6 +223,7 @@
 - An unofficial styleguide and best practices summary for PyTorch [Github](https://github.com/IgorSusmelj/pytorch-styleguide)
 - fast.ai Computational Linear Algebra course [Github](https://github.com/fastai/numerical-linear-algebra)
 - Awesome-PyTorch-Chinese [Github](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
+- Build-an-AI-Startup-with-PyTorch [Github](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch)
   
 ### 4. 代码实战 Tensorflow
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)
@@ -226,6 +231,7 @@
 - Tensorflow2教程 [Github](https://zhuanlan.zhihu.com/c_1091021863043624960)
 - Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2)
 - TensorFlow 中文资源全集 [Gitee](https://gitee.com/fendouai/Awesome-TensorFlow-Chinese)
+- Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course [Github](https://github.com/ageron/tf2_course)
   
 ### 5. 网课
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
