@@ -79,6 +79,7 @@
 - 机器学习算法面经---2018秋招 [nowcoder](https://www.nowcoder.com/discuss/32008)
 - 阿里&腾讯春招算法面经 [nowcoder](https://www.nowcoder.com/discuss/198290?type=2&order=3&pos=7&page=1)
 - 阿里暑期实习六面面经 [nowcoder](https://www.nowcoder.com/discuss/180007)
+- 计算机视觉算法岗面经 [nowcoder](https://www.nowcoder.com/discuss/128148)
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
@@ -151,6 +152,7 @@
 - Python3 入门机器学习 [Github](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 - DrWhy is the collection of tools for Explainable AI (XAI) [Github](https://github.com/ModelOriented/DrWhy)
 - Fit interpretable models. Explain blackbox machine learning. [Github](https://github.com/jwasham/coding-interview-university)
+- 李宏毅《机器学习》笔记 [Github](https://github.com/datawhalechina/leeml-notes)
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)
