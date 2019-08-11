@@ -115,6 +115,7 @@
 - 计算机视觉、算法岗实习面经（阿里/格灵深瞳/南京地平线机器人） [website](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247489566&idx=2&sn=c80be1ba406ccebf43a46db80660a4f1&chksm=976fbd83a0183495acd5bfa788d2ea286eb04249693559309f72e0082e61fab57a3300604270&scene=0&xtrack=1&key=7fca267e209412d9b05c556b42b9a0fe270a7ed740b566281d6a3e47747e97719c66e9f6e9177328b90305a7c54d43a85e73d8eace23e076bb985468996179aa9caed02092d455a2536c605568ff1a75&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=j%2BeTr3gGhtYbB5BELmEqEDAsSEIlbJT1JSozWqEv2dcR7%2FxLFyvlo4SOAEZG3VMy)
 - 面经 | 挂两次腾讯面试的春招教训 [website](https://mp.weixin.qq.com/s?__biz=MzI3NTUwNzMwNA==&mid=2247490123&idx=2&sn=d772fca22b24da33d2d37dcbd3e8ccf8&chksm=eb02eb4cdc75625a87587062c021fd55a0d52b661708fb8ea7ea2c45348aaf45612f5b5a67f1&scene=0&xtrack=1&key=c057d35eab709d255cd973af834e8e7fed12a361e2f9a7f994792b52fe5d0219e5b61ec11a0082ec6d688698b154581151a78facfedbc3e18bd93873a3b2a5262d11d9a9786af2e35e149c4e45048e25&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=iyLHjIA5wZnXmOS0ABLcY2XLov463bca6oRsGuW4BP5gLfODXfelBPUorCcfy5LY)
 - Face++公司 - 两轮技术面试面经 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247490838&idx=2&sn=ebab23ad07e81fac51ff73bd05d6d024&chksm=f9a26f99ced5e68f262f1f3378de60c3a13812228592635eea9b1a5b3363d0005e4b166f12de&scene=0&xtrack=1&key=8131978de357c28aca9abbe0f79df6ffb5fd2bf34350c929d44846f26dce3eb3e67e733a7b4fc00f3de641695cf6a36f8eef27d996acdaface59aa2dbd586518c6436be26147ec532797cf23ebd9cc23&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=pAAFeZ%2FWM675ia1cV7wlRX09ocUk2JDlruSKGs7l3i2HbajbZPSzXDNSri3idv6U)
+- 秋招面经 | 旷视科技算法岗秋招面试经验分享 [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247489963&idx=2&sn=e863112b068ad716a9d6dc820eaf004b&chksm=ec1ff452db687d4446dce6640075f144b07f6032e4c7f125d1569783083550b92b5746f59cc3&scene=0&xtrack=1&key=8131978de357c28a4635cd6d39d94a9eb5aa3b39352d0a2110d4fb4370e7b18d4f45750a4ba7ffa904a171d015c95ef1b1b4672224f83c6e3c71443c151dd9d22cb8d65be1f7f8fa5cfa69b197ac2c43&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=%2BALHnM%2BRBZdmh5iwLWmDGy48Bv5N3g6fYsAHbZn8GvqBr8QkG%2FbTMIgivI0Ll2cN)
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -251,6 +252,24 @@
 - Deep Learning and Computer Vision A-Z: OpenCV, SSD & GANs [udemy](https://www.udemy.com/course/computer-vision-a-z/)
 - 吴恩达的深度学习专项系列课程(Deep Learning Specialization) [Coursera](https://www.coursera.org/specializations/deep-learning) [163](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/)
 - [CS231n](http://cs231n.stanford.edu/) [CS224n](http://web.stanford.edu/class/cs224n/)
+- 斯坦福公开课程：概率和统计'Probability and Statistics' [website](https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics)
+- MIT公开课线性代数'Linear Algebra' [website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- Fastai推出的2019年面向程序员的深度学习实战课程'Practical Deep Learning for Coders, v3' [website](https://course.fast.ai) [website](https://www.bilibili.com/video/av41718196/)
+- 斯坦福机器学习课程'Machine Learning(Coursera)' [coursera](https://www.coursera.org/learn/machine-learning)
+- 斯坦福概率图模型专项课程'Probabilistic Graphical Models Specialization(Coursera)' [coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)
+- DeepMind强化学习导论课程'Introduction to Reinforcement Learning' [bilibili](https://www.bilibili.com/video/av24060851/) [youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- 全栈深度学习训练营(课程视频)：为熟悉深度学习基础知识的开发人员提供的实践指导课程'Full Stack Deep Learning Bootcamp' [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) [bilibili](https://www.bilibili.com/video/av49643298) [website](https://fullstackdeeplearning.com/march2019)
+- 跟顶级Kagglers学习如何赢取数据科学竞赛'How to Win a Data Science Competition: Learn from Top Kagglers (Coursera)' [coursera](https://www.coursera.org/learn/competitive-data-science)
+- CS188伯克利<人工智能导论>课程'BerkeleyX: CS188.1x Artificial Intelligence' [bilibili](https://www.bilibili.com/video/av39489278/) [website](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+- Fast.ai发布的课程：从零开始学深度学习'Deep Learning from the Foundations' [website](https://www.fast.ai/2019/06/28/course-p2v3/)
+- CS230斯坦福深度学习课程(2018 年秋)'CS230: Deep Learning | Autumn 2018' [bilibili](https://www.bilibili.com/video/av47055599/) [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- deeplearning.ai上线的TensorFlow实践课程'TensorFlow in Practice' [website](https://www.deeplearning.ai/tensorflow-in-practice/)
+- MIT的Python机器学习课程'Machine Learning with Python-From Linear Models to Deep Learning' [website](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning)
+- 斯坦福CS224U自然语言理解课程'CS224U：Natural Language Understanding' [website](http://web.stanford.edu/class/cs224u/index.html)
+- 陈蕴侬应用深度学习'107 Spring - Applied Deep Learning, Taiwan University' [bilibili](https://www.bilibili.com/video/av46656764/) [website](https://www.csie.ntu.edu.tw/~miulab/s107-adl/)
+- 台大林轩田老师<机器学习基石>课程 [bilibili](https://www.bilibili.com/video/av12463015/)
+- 台大林轩田老师课程<机器学习技法>课程 [bilibili](https://www.bilibili.com/video/av12469267/)
+- NTU大学李宏毅最新机器学习课程(2019) [website](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 
 ---
   
