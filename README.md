@@ -175,6 +175,7 @@
 - 深度学习面试问题 [Github](https://github.com/elviswf/DeepLearningBookQA_cn)
 - 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)
 - Deep Learning Interview 深度学习面试题目汇总 [Github](https://github.com/ShanghaiTechAIClub/DLInterview)
+- 深度学习面试要点总结(面试题) [zhihu](https://zhuanlan.zhihu.com/p/62935978)
 
 ### 2. 资料
 - 深度神经网络实战技巧 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487319&idx=2&sn=35c275493f2c76a557cd5d95cbe728cc&chksm=97ea2532a09dac24d4acee0d38f6f91eee5b27ae0b0396a6186a30e26c2c515fae520013f194&mpshare=1&scene=24&srcid=0915AM36f3jIiv2An5onyGRI&key=026f558c5690f871f52a7864e791811c82fe8d67d1c3604a334a8f8a39c252cbcc03ace1a17af46a7d29333921ca82b635602f95a20b530b7e2ceb2ea411cd1e4867ece5bb7c7307ac3407bf450794e1&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)
