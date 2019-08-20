@@ -212,9 +212,10 @@
 - five-days deep learning [website](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html) [Github](https://github.com/mlelarge/dataflowr)
 - Learn_Computer_Vision [Github](https://github.com/llSourcell/Learn_Computer_Vision)
 - Explaining the Math of how neural networks learn [Github](https://github.com/omar-florez/scratch_mlp)
-- 【微软】AI-神经网络基本原理简明教程 [Github](https://github.com/microsoft/ai-edu/tree/master/)
+- (微软) AI-神经网络基本原理简明教程 [Github](https://github.com/microsoft/ai-edu/tree/master/)
 - 深度学习手册 [BaiduYun](https://pan.baidu.com/s/1ew3aVZizVkPVKUFx2AtDjw) pw:dy6h
-- - An educational resource to help anyone learn deep reinforcement learning [Github](https://github.com/openai/spinningup)
+- An educational resource to help anyone learn deep reinforcement learning [Github](https://github.com/openai/spinningup)
+- Technical Notes On Using Data Science & Artificial Intelligence [website](https://chrisalbon.com/)
 
 ### 3. 代码实战 Pytorch
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
