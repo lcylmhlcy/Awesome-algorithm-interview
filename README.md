@@ -80,6 +80,9 @@
 - 阿里&腾讯春招算法面经 [nowcoder](https://www.nowcoder.com/discuss/198290?type=2&order=3&pos=7&page=1)
 - 阿里暑期实习六面面经 [nowcoder](https://www.nowcoder.com/discuss/180007)
 - 计算机视觉算法岗面经 [nowcoder](https://www.nowcoder.com/discuss/128148)
+- 阿里 达摩院 cv 算法 面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
+- 算法工程师面经 寒拼蘑腾作网网3 附答案 [nowcoder](https://www.nowcoder.com/discuss/231656)
+- 搜狗算法面经 [nowcoder](https://www.nowcoder.com/discuss/231973)
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
@@ -118,6 +121,8 @@
 - 秋招面经 | 旷视科技算法岗秋招面试经验分享 [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247489963&idx=2&sn=e863112b068ad716a9d6dc820eaf004b&chksm=ec1ff452db687d4446dce6640075f144b07f6032e4c7f125d1569783083550b92b5746f59cc3&scene=0&xtrack=1&key=8131978de357c28a4635cd6d39d94a9eb5aa3b39352d0a2110d4fb4370e7b18d4f45750a4ba7ffa904a171d015c95ef1b1b4672224f83c6e3c71443c151dd9d22cb8d65be1f7f8fa5cfa69b197ac2c43&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=%2BALHnM%2BRBZdmh5iwLWmDGy48Bv5N3g6fYsAHbZn8GvqBr8QkG%2FbTMIgivI0Ll2cN)
 - 面经+经验分享|2019秋招算法岗复盘 [website](https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247485062&idx=1&sn=c167c254d0a725cb7cf49fc1d4ed0387&chksm=e9d01647dea79f5111bec97badf23db4711c07e1fc7b9b0b48bef94556f7956936cd1bd89799&scene=0&xtrack=1&key=4e5709a69a44a1ddc80614fd27bc9fd9692e4095edbe878b041ed1e58e4ba8fca1371f265f11d0a574b6fb00ec97896caa2e62b9f2546e5cedfc11556151bc4386ce8343ecc44ab0c232a6f7463c88f9&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=aIZ6cWaLHjOvxT%2Fw%2FmvPE3awD9%2B5yykz%2BYcqY%2BtaGQrGH2p8ftZePYMiyjLPmOUf)
 - 专科生阿里大数据一面面经(已过) [website](https://mp.weixin.qq.com/s?__biz=Mzg3NjI4OTg1Mw==&mid=2247484222&idx=1&sn=fa0d9084846a3fd2a681afcf7bc5e4e5&chksm=cf35c96cf842407a4cca9b960785ff6909cfe0eba6c9dbd37198c27e6e198dff5c8472548eef&scene=0&xtrack=1&key=dccf35d64f2e46087037d2958558ff4576eedeeaed91d201defca8c13685e3321e80314870260fdf5f4c2a701e1d528c720bede53b67dfa86a92a5b0dfb019282a5ab68d32ef5ed2f2266199f6efe168&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=aIZ6cWaLHjOvxT%2Fw%2FmvPE3awD9%2B5yykz%2BYcqY%2BtaGQrGH2p8ftZePYMiyjLPmOUf)
+- 2019秋招算法岗复盘 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjk4MjAxOA==&mid=2247484535&idx=1&sn=6e4b18c801ff1ef350fc8ad1c11a4a72&chksm=f99e501acee9d90cae86eac372cf679ecacb73fc18e4c937a8b6bd1129e5894db7a8c90329d5&scene=0&xtrack=1&key=225412a9c7b5021367e31f82715ee8b8955eb7c2a5d8a5ad916892adbbeaccb2c78eeb2704ae66d998aa0755d01ff755de680aac057b452d7572f6fb9c1740d50346bf71dea9deac9324220f90929182&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=rWrQpFnb7ealkvqkv3J38FWHQCDTbRVo%2BTwD4Gdxp7R8NbjeXhAb%2Fts%2BMA4zNtrO)
+- 我面试了10家算法公司，这是我能记住的所有问题 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491149&idx=2&sn=5aa369afa89d2080de45145de40a4855&chksm=f9a26cc2ced5e5d42d5171be277778f8527e99f6c270b4d8290e9defff3d1849d8cd48c3dcbe&scene=0&xtrack=1&key=ee7fe1a80b3162f35a079b9ca82a3398a4b1c1e248c5764200c15f41f0ab1645613e14896741c52d5357b2e9aea72f843e2d5f14a6d7c570e17f2ea3803d3adf3c2b288055c1fe983ed4da1970b0e9cf&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=rWrQpFnb7ealkvqkv3J38FWHQCDTbRVo%2BTwD4Gdxp7R8NbjeXhAb%2Fts%2BMA4zNtrO)
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -126,6 +131,7 @@
 - CV领域Paper论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/58860096)
 - Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)
 - Everything you need to prepare for your technical interview [Github](https://github.com/andreis/interview)
+- Materials to help you rock your next coding interview [Github](https://github.com/yangshun/tech-interview-handbook)
 
 ---
 
@@ -156,6 +162,7 @@
 - DrWhy is the collection of tools for Explainable AI (XAI) [Github](https://github.com/ModelOriented/DrWhy)
 - Fit interpretable models. Explain blackbox machine learning. [Github](https://github.com/jwasham/coding-interview-university)
 - 李宏毅《机器学习》笔记 [Github](https://github.com/datawhalechina/leeml-notes)
+- 机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 [Github](https://github.com/NLP-LOVE/ML-NLP)
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)
@@ -178,6 +185,7 @@
 - 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)
 - Deep Learning Interview 深度学习面试题目汇总 [Github](https://github.com/ShanghaiTechAIClub/DLInterview)
 - 深度学习面试要点总结(面试题) [zhihu](https://zhuanlan.zhihu.com/p/62935978)
+- 自己整理的一点和深度学习相关的面试考点 [zhihu](https://zhuanlan.zhihu.com/p/48374690)
 
 ### 2. 资料
 - 深度神经网络实战技巧 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487319&idx=2&sn=35c275493f2c76a557cd5d95cbe728cc&chksm=97ea2532a09dac24d4acee0d38f6f91eee5b27ae0b0396a6186a30e26c2c515fae520013f194&mpshare=1&scene=24&srcid=0915AM36f3jIiv2An5onyGRI&key=026f558c5690f871f52a7864e791811c82fe8d67d1c3604a334a8f8a39c252cbcc03ace1a17af46a7d29333921ca82b635602f95a20b530b7e2ceb2ea411cd1e4867ece5bb7c7307ac3407bf450794e1&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)
@@ -313,6 +321,7 @@
 - The Beauty of Python Programming [Github](https://github.com/ethan-funny/explore-python)
 - Python - 100天从新手到大师 [Github](https://github.com/jackfrued/Python-100-Days)
 - 在 Windows 上使用 Python 进行开发 [Blog](https://docs.microsoft.com/zh-cn/windows/python/)
+- A curated list of awesome Python frameworks, libraries, software and resources [Github](https://github.com/vinta/awesome-python)
   
 ---
   
