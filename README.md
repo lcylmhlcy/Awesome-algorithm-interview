@@ -83,6 +83,8 @@
 - 阿里 达摩院 cv 算法 面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
 - 算法工程师面经 寒拼蘑腾作网网3 附答案 [nowcoder](https://www.nowcoder.com/discuss/231656)
 - 搜狗算法面经 [nowcoder](https://www.nowcoder.com/discuss/231973)
+- 商汤20校招CV算法研究员面经(三面+HR面) [nowcoder](https://www.nowcoder.com/discuss/209857)
+- 作业帮/寒武纪/商汤/科大讯飞面经 [nowcoder](https://www.nowcoder.com/discuss/218906)
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
