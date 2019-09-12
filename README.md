@@ -85,6 +85,8 @@
 - 搜狗算法面经 [nowcoder](https://www.nowcoder.com/discuss/231973)
 - 商汤20校招CV算法研究员面经(三面+HR面) [nowcoder](https://www.nowcoder.com/discuss/209857)
 - 作业帮/寒武纪/商汤/科大讯飞面经 [nowcoder](https://www.nowcoder.com/discuss/218906)
+- 面经 | 腾讯/百度/字节跳动/拼多多/华为/美团/寒武纪/虎牙等 [nowcoder](https://www.nowcoder.com/discuss/241988)
+- 算法秋招上岸了，大家加油，我先撤了（附所有面经） [nowcoder](https://www.nowcoder.com/discuss/244979)
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
@@ -125,6 +127,9 @@
 - 专科生阿里大数据一面面经(已过) [website](https://mp.weixin.qq.com/s?__biz=Mzg3NjI4OTg1Mw==&mid=2247484222&idx=1&sn=fa0d9084846a3fd2a681afcf7bc5e4e5&chksm=cf35c96cf842407a4cca9b960785ff6909cfe0eba6c9dbd37198c27e6e198dff5c8472548eef&scene=0&xtrack=1&key=dccf35d64f2e46087037d2958558ff4576eedeeaed91d201defca8c13685e3321e80314870260fdf5f4c2a701e1d528c720bede53b67dfa86a92a5b0dfb019282a5ab68d32ef5ed2f2266199f6efe168&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=aIZ6cWaLHjOvxT%2Fw%2FmvPE3awD9%2B5yykz%2BYcqY%2BtaGQrGH2p8ftZePYMiyjLPmOUf)
 - 2019秋招算法岗复盘 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjk4MjAxOA==&mid=2247484535&idx=1&sn=6e4b18c801ff1ef350fc8ad1c11a4a72&chksm=f99e501acee9d90cae86eac372cf679ecacb73fc18e4c937a8b6bd1129e5894db7a8c90329d5&scene=0&xtrack=1&key=225412a9c7b5021367e31f82715ee8b8955eb7c2a5d8a5ad916892adbbeaccb2c78eeb2704ae66d998aa0755d01ff755de680aac057b452d7572f6fb9c1740d50346bf71dea9deac9324220f90929182&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=rWrQpFnb7ealkvqkv3J38FWHQCDTbRVo%2BTwD4Gdxp7R8NbjeXhAb%2Fts%2BMA4zNtrO)
 - 我面试了10家算法公司，这是我能记住的所有问题 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491149&idx=2&sn=5aa369afa89d2080de45145de40a4855&chksm=f9a26cc2ced5e5d42d5171be277778f8527e99f6c270b4d8290e9defff3d1849d8cd48c3dcbe&scene=0&xtrack=1&key=ee7fe1a80b3162f35a079b9ca82a3398a4b1c1e248c5764200c15f41f0ab1645613e14896741c52d5357b2e9aea72f843e2d5f14a6d7c570e17f2ea3803d3adf3c2b288055c1fe983ed4da1970b0e9cf&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=rWrQpFnb7ealkvqkv3J38FWHQCDTbRVo%2BTwD4Gdxp7R8NbjeXhAb%2Fts%2BMA4zNtrO)
+- 计算机视觉算法工程师（旷视、商汤、智云、海康）面试总结 [website](https://mp.weixin.qq.com/s/lKYmo_Sd5Pq8otvS2_x5iA)
+- 秋招面经 | 滴滴20校招CV算法岗面试经验分享(三面） [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490482&idx=2&sn=ffedf241939b45e27020d67b1ad461e1&chksm=ec1ff64bdb687f5d4dfd10a3d3b2f2e70eb87fac9c81357b341dc5c4a6bf1c4dfd077f366149&scene=0&xtrack=1&key=a4f2e1c5351761186dd70d875d82053acf133cf2f6ced0480c4404cbb9302ef413c80539be251de00e5be187a63cdd58ea1381ea6fe0f93c3c97d1bd2d9a59fbd917d0be7ecf53ee389d2743bb2244ea&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
+- 八家国企大数据面经(干货，详细答案) [website](https://mp.weixin.qq.com/s?__biz=Mzg3NjI4OTg1Mw==&mid=2247484418&idx=1&sn=b3ef3b3a542105ec201a58171925c9ae&chksm=cf35ce50f8424746b8b36752840c2f36c328b7cdf2f0d483fa0d2b4d440321e0a3eed58ea33f&scene=0&xtrack=1&key=a4f2e1c5351761180b02215d627ba2b8218eb9c90306209837b3a4e8a677c58171c9a898b5953705d17cf0becd00661faec765089231d5d52d62e3ddd4843f808314714a525a16d8005045d0634e4662&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -197,7 +202,8 @@
 - awesome-deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions)
 - 复旦大学邱锡鹏教授发布<神经网络与深度学习> [Github书](https://github.com/nndl/nndl.github.io) [Github示例代码](https://github.com/nndl/nndl-codes) [Github课程练习](https://github.com/nndl/exercise)
-- 伯克利课程 <动手学深度学习> [Github](https://github.com/d2l-ai/d2l-zh) [课程主页](http://courses.d2l.ai/berkeley-stat-157/) [课件和习题](https://github.com/d2l-ai/berkeley-stat-157) [英文版](http://d2l.ai/) [中文版](http://zh.d2l.ai/)
+- 伯克利课程 <动手学深度学习> [Github](https://github.com/d2l-ai/d2l-zh) [课程主页](http://courses.d2l.ai/berkeley-stat-157/) [bilibili](https://space.bilibili.com/209599371/channel/detail?cid=23541) [课件和习题](https://github.com/d2l-ai/berkeley-stat-157) [英文版](http://d2l.ai/) [中文版](http://zh.d2l.ai/) [PyTorch 版](
+https://github.com/dsgiitr/d2l-pytorch)
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)
 - Awesome_Computer_Vision [Github](https://github.com/ahong007007/Awesome_Computer_Vision)
 - Deep-Learning-Papers-Reading-Roadmap [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
