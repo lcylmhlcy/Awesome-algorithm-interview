@@ -87,6 +87,8 @@
 - 作业帮/寒武纪/商汤/科大讯飞面经 [nowcoder](https://www.nowcoder.com/discuss/218906)
 - 面经 | 腾讯/百度/字节跳动/拼多多/华为/美团/寒武纪/虎牙等 [nowcoder](https://www.nowcoder.com/discuss/241988)
 - 算法秋招上岸了，大家加油，我先撤了（附所有面经） [nowcoder](https://www.nowcoder.com/discuss/244979)
+- 秋招小结：感受+面经（CV算法岗） [nowcoder](https://www.nowcoder.com/discuss/248664)
+- 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
@@ -232,6 +234,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 深度学习手册 [BaiduYun](https://pan.baidu.com/s/1ew3aVZizVkPVKUFx2AtDjw) pw:dy6h
 - An educational resource to help anyone learn deep reinforcement learning [Github](https://github.com/openai/spinningup)
 - Technical Notes On Using Data Science & Artificial Intelligence [website](https://chrisalbon.com/)
+- 微软人工智能教育与学习共建社区 [Github](https://github.com/microsoft/ai-edu)
 
 ### 3. 代码实战 Pytorch
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
