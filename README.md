@@ -89,6 +89,7 @@
 - 算法秋招上岸了，大家加油，我先撤了（附所有面经） [nowcoder](https://www.nowcoder.com/discuss/244979)
 - 秋招小结：感受+面经（CV算法岗） [nowcoder](https://www.nowcoder.com/discuss/248664)
 - 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)
+- 秋招小结：感受+面经（CV算法岗） - 09.07 [nowcoder](https://www.nowcoder.com/discuss/248664)
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
@@ -98,6 +99,7 @@
 - CVTE视觉计算岗实习面经 [zhihu](https://zhuanlan.zhihu.com/p/59223324)
 - 互联网公司最常见的面试算法题有哪些？ [zhihu](https://www.zhihu.com/question/24964987/answer/586425979)
 - 计算机视觉（cv）方向今年招聘情况怎么样?是否已经人才过剩? [zhihu](https://www.zhihu.com/question/293700785)
+- [校招-基础算法]图像处理算法 [zhihu](https://zhuanlan.zhihu.com/p/80887909)
 
 ### 4. 个人博客
 - AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)
@@ -132,6 +134,7 @@
 - 计算机视觉算法工程师（旷视、商汤、智云、海康）面试总结 [website](https://mp.weixin.qq.com/s/lKYmo_Sd5Pq8otvS2_x5iA)
 - 秋招面经 | 滴滴20校招CV算法岗面试经验分享(三面） [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490482&idx=2&sn=ffedf241939b45e27020d67b1ad461e1&chksm=ec1ff64bdb687f5d4dfd10a3d3b2f2e70eb87fac9c81357b341dc5c4a6bf1c4dfd077f366149&scene=0&xtrack=1&key=a4f2e1c5351761186dd70d875d82053acf133cf2f6ced0480c4404cbb9302ef413c80539be251de00e5be187a63cdd58ea1381ea6fe0f93c3c97d1bd2d9a59fbd917d0be7ecf53ee389d2743bb2244ea&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
 - 八家国企大数据面经(干货，详细答案) [website](https://mp.weixin.qq.com/s?__biz=Mzg3NjI4OTg1Mw==&mid=2247484418&idx=1&sn=b3ef3b3a542105ec201a58171925c9ae&chksm=cf35ce50f8424746b8b36752840c2f36c328b7cdf2f0d483fa0d2b4d440321e0a3eed58ea33f&scene=0&xtrack=1&key=a4f2e1c5351761180b02215d627ba2b8218eb9c90306209837b3a4e8a677c58171c9a898b5953705d17cf0becd00661faec765089231d5d52d62e3ddd4843f808314714a525a16d8005045d0634e4662&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
+- 秋招经历（已收到百度、阿里、腾讯、美团、京东、拼多多的 offer） [website](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247484467&idx=1&sn=4e4ea07d5daa4491c47623ccae364053&chksm=97048f8fa07306991c41e1b36c241e66cfe329793b3868abf9b69c9f6c8e22ed65ccdc81050b&scene=0&xtrack=1&key=f3b89a09cde51f0f18b12ad73080cb4476e44408f3adf8bf3dcb0a444d2394a43bc4d562865cb056402b1336a61cfbf2bedfce5c082867a1dfc3415eb9843d71537a4d52657e975c9a6d634e95a5acb8&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=RpJWE06PIp32SBXL8%2FeBcKde4wI7jAKOPyofLWQB%2FfLrZ2GcooZxvXB2E1yAZax7)
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -294,6 +297,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 台大林轩田老师<机器学习基石>课程 [bilibili](https://www.bilibili.com/video/av12463015/)
 - 台大林轩田老师课程<机器学习技法>课程 [bilibili](https://www.bilibili.com/video/av12469267/)
 - NTU大学李宏毅最新机器学习课程(2019) [website](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+- 美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？ [zhihu](https://www.zhihu.com/question/57532048)
 
 ---
   
