@@ -90,6 +90,7 @@
 - 秋招小结：感受+面经（CV算法岗） [nowcoder](https://www.nowcoder.com/discuss/248664)
 - 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)
 - 秋招小结：感受+面经（CV算法岗） - 09.07 [nowcoder](https://www.nowcoder.com/discuss/248664)
+- 阿里巴巴达摩院 CV 四轮算法面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
@@ -135,6 +136,7 @@
 - 秋招面经 | 滴滴20校招CV算法岗面试经验分享(三面） [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490482&idx=2&sn=ffedf241939b45e27020d67b1ad461e1&chksm=ec1ff64bdb687f5d4dfd10a3d3b2f2e70eb87fac9c81357b341dc5c4a6bf1c4dfd077f366149&scene=0&xtrack=1&key=a4f2e1c5351761186dd70d875d82053acf133cf2f6ced0480c4404cbb9302ef413c80539be251de00e5be187a63cdd58ea1381ea6fe0f93c3c97d1bd2d9a59fbd917d0be7ecf53ee389d2743bb2244ea&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
 - 八家国企大数据面经(干货，详细答案) [website](https://mp.weixin.qq.com/s?__biz=Mzg3NjI4OTg1Mw==&mid=2247484418&idx=1&sn=b3ef3b3a542105ec201a58171925c9ae&chksm=cf35ce50f8424746b8b36752840c2f36c328b7cdf2f0d483fa0d2b4d440321e0a3eed58ea33f&scene=0&xtrack=1&key=a4f2e1c5351761180b02215d627ba2b8218eb9c90306209837b3a4e8a677c58171c9a898b5953705d17cf0becd00661faec765089231d5d52d62e3ddd4843f808314714a525a16d8005045d0634e4662&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
 - 秋招经历（已收到百度、阿里、腾讯、美团、京东、拼多多的 offer） [website](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247484467&idx=1&sn=4e4ea07d5daa4491c47623ccae364053&chksm=97048f8fa07306991c41e1b36c241e66cfe329793b3868abf9b69c9f6c8e22ed65ccdc81050b&scene=0&xtrack=1&key=f3b89a09cde51f0f18b12ad73080cb4476e44408f3adf8bf3dcb0a444d2394a43bc4d562865cb056402b1336a61cfbf2bedfce5c082867a1dfc3415eb9843d71537a4d52657e975c9a6d634e95a5acb8&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=RpJWE06PIp32SBXL8%2FeBcKde4wI7jAKOPyofLWQB%2FfLrZ2GcooZxvXB2E1yAZax7)
+- 10大机器学习Q&A，面试必知！ [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491786&idx=4&sn=0b90f86f56cdee3ca6d521ba5daa431d&chksm=f9a19245ced61b53843fd0ebce665682e1f32ba783a53047ada8588996544053282d7988ccd0&scene=0&xtrack=1&key=a4f2e1c5351761187f5a6ed4c82f78256be962afa2035410b0c853353d63912b5bb6ba70dbfba485d77a657e724808eebc40721de0069b67d3a8e55379ab42898bfae411820edf36cc4d2128efd7133d&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=qYkZjE2bwZNl6kCdiw9%2FVQhvf4pr95lZY5htRdH4dZlMmAkwLaO37AuuvCezNz0w)
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -175,6 +177,7 @@
 - Fit interpretable models. Explain blackbox machine learning. [Github](https://github.com/jwasham/coding-interview-university)
 - 李宏毅《机器学习》笔记 [Github](https://github.com/datawhalechina/leeml-notes)
 - 机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 [Github](https://github.com/NLP-LOVE/ML-NLP)
+- 周志华《机器学习》手推笔记 [Github](https://github.com/Sophia-11/Machine-Learning-Notes)
 
 ### 3. 代码实战
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)
@@ -255,6 +258,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - fast.ai Computational Linear Algebra course [Github](https://github.com/fastai/numerical-linear-algebra)
 - Awesome-PyTorch-Chinese [Github](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
 - Build-an-AI-Startup-with-PyTorch [Github](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch)
+- First steps towards Deep Learning with pyTorch [Github](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning)
   
 ### 4. 代码实战 Tensorflow
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)
@@ -338,6 +342,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - Python - 100天从新手到大师 [Github](https://github.com/jackfrued/Python-100-Days)
 - 在 Windows 上使用 Python 进行开发 [Blog](https://docs.microsoft.com/zh-cn/windows/python/)
 - A curated list of awesome Python frameworks, libraries, software and resources [Github](https://github.com/vinta/awesome-python)
+- c9-python-getting-started [Github](https://github.com/microsoft/c9-python-getting-started)
   
 ---
   
