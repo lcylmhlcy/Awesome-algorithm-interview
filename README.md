@@ -45,6 +45,7 @@
 - Daily Interview [Github](https://github.com/datawhalechina/Daily-interview)
 - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总 [Github](https://github.com/0voice/interview_internal_reference)
 
+
 ### 2. 牛客网
 - 旷视19届春招-算法研究员-凉经 [nowcoder](https://www.nowcoder.com/discuss/167336)
 - 腾讯算法实习面试总结 [nowcoder](https://www.nowcoder.com/discuss/163996)
@@ -91,6 +92,7 @@
 - 面经（腾讯AI Lab，阿里达摩院，华为等公司大集合） [nowcoder](https://www.nowcoder.com/discuss/180087)
 - 秋招小结：感受+面经（CV算法岗） - 09.07 [nowcoder](https://www.nowcoder.com/discuss/248664)
 - 阿里巴巴达摩院 CV 四轮算法面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
+- 秋招小结：感受+面经（CV算法岗）- 09.26 [nowcoder](https://www.nowcoder.com/discuss/248664)
 
 ### 3. 知乎
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
@@ -108,6 +110,9 @@
 - 百度/商汤AI面试 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)
 - 算法校招经验总结(百度,阿里巴巴,腾讯,今日头条) [CSDN](https://blog.csdn.net/ML_SDD/article/details/84986528)
 - CV计算机论文速览 [CSDN](https://me.csdn.net/u014636245)
+- 海外小硕的国内面试经历 [CSDN](https://blog.csdn.net/emma1222/article/details/86551435)
+- 致未来的算法工程师-算法校招经验总结（百度，阿里巴巴，腾讯，今日头条） [CSDN](https://blog.csdn.net/ML_SDD/article/details/84986528)
+- AI 研习社职荐专区 [AI求职百题斩](https://www.yanxishe.com/blogDetail/14457) [面经](https://www.yanxishe.com/blogDetail/14456) [website](https://job.yanxishe.com/)
 
 ### 5. 微信公众号
 - 阿里巴巴计算机视觉算法实习生视频面试 [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488083&idx=3&sn=499149282d197c1b68d3fa105a69e271&chksm=f9a260dcced5e9ca7a86741c90b5199251b4bf02b2279b314fa3302911b8d0c22e036dd7bb33&scene=21#wechat_redirect)
@@ -301,6 +306,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 台大林轩田老师<机器学习基石>课程 [bilibili](https://www.bilibili.com/video/av12463015/)
 - 台大林轩田老师课程<机器学习技法>课程 [bilibili](https://www.bilibili.com/video/av12469267/)
 - NTU大学李宏毅最新机器学习课程(2019) [website](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+- UC伯克利最新深度强化学习课程 [website](http://rail.eecs.berkeley.edu/deeprlcourse/) [YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A) [bilibili](https://www.bilibili.com/video/av69455099/) [Github](https://github.com/berkeleydeeprlcourse/homework)
 - 美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？ [zhihu](https://www.zhihu.com/question/57532048)
 
 ---
