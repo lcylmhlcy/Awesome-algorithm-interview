@@ -142,6 +142,7 @@
 - 八家国企大数据面经(干货，详细答案) [website](https://mp.weixin.qq.com/s?__biz=Mzg3NjI4OTg1Mw==&mid=2247484418&idx=1&sn=b3ef3b3a542105ec201a58171925c9ae&chksm=cf35ce50f8424746b8b36752840c2f36c328b7cdf2f0d483fa0d2b4d440321e0a3eed58ea33f&scene=0&xtrack=1&key=a4f2e1c5351761180b02215d627ba2b8218eb9c90306209837b3a4e8a677c58171c9a898b5953705d17cf0becd00661faec765089231d5d52d62e3ddd4843f808314714a525a16d8005045d0634e4662&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=bBA78nBZzTpaKTmAAaWvFQdsuIgbvpsAxFzrpcjvG4m%2BUxCwT%2BGe%2FlP1xh9fyATn)
 - 秋招经历（已收到百度、阿里、腾讯、美团、京东、拼多多的 offer） [website](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247484467&idx=1&sn=4e4ea07d5daa4491c47623ccae364053&chksm=97048f8fa07306991c41e1b36c241e66cfe329793b3868abf9b69c9f6c8e22ed65ccdc81050b&scene=0&xtrack=1&key=f3b89a09cde51f0f18b12ad73080cb4476e44408f3adf8bf3dcb0a444d2394a43bc4d562865cb056402b1336a61cfbf2bedfce5c082867a1dfc3415eb9843d71537a4d52657e975c9a6d634e95a5acb8&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=RpJWE06PIp32SBXL8%2FeBcKde4wI7jAKOPyofLWQB%2FfLrZ2GcooZxvXB2E1yAZax7)
 - 10大机器学习Q&A，面试必知！ [website](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491786&idx=4&sn=0b90f86f56cdee3ca6d521ba5daa431d&chksm=f9a19245ced61b53843fd0ebce665682e1f32ba783a53047ada8588996544053282d7988ccd0&scene=0&xtrack=1&key=a4f2e1c5351761187f5a6ed4c82f78256be962afa2035410b0c853353d63912b5bb6ba70dbfba485d77a657e724808eebc40721de0069b67d3a8e55379ab42898bfae411820edf36cc4d2128efd7133d&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=qYkZjE2bwZNl6kCdiw9%2FVQhvf4pr95lZY5htRdH4dZlMmAkwLaO37AuuvCezNz0w)
+- 机器学习常见算法优缺点总结！ [website](https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247485383&idx=1&sn=dc481b7e6261aecfada7b772fd2ae471&chksm=e9d01706dea79e1097a39ee0779dd8ab99671714f177133fc9f4dbd531e0cee4807cd34f178c&scene=0&xtrack=1&key=d5739ef05bcda6301af88ca81d2856a4296b48c7e05d1733f3d195063ccd566c1430c6d2cbf990173ec038c842d0b8c710678815b45174cb508e0e6c80e5d48790e062a492ef85b13f3b9a4d2b644b77&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=CqBupw%2FP1tVbatYy5KtWCuDWZ2meT4iMIDhjMVNgyWAou9uxB8EDLiHzBzTHh2xj)
 
 ### 6. 其它
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -307,6 +308,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 台大林轩田老师课程<机器学习技法>课程 [bilibili](https://www.bilibili.com/video/av12469267/)
 - NTU大学李宏毅最新机器学习课程(2019) [website](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 - UC伯克利最新深度强化学习课程 [website](http://rail.eecs.berkeley.edu/deeprlcourse/) [YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A) [bilibili](https://www.bilibili.com/video/av69455099/) [Github](https://github.com/berkeleydeeprlcourse/homework)
+- 微软-计算机视觉最佳实践、代码示例和相关文档 [Github](https://github.com/microsoft/ComputerVision)
 - 美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？ [zhihu](https://www.zhihu.com/question/57532048)
 
 ---
