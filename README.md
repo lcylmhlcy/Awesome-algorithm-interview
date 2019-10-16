@@ -44,6 +44,7 @@
 - 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information)
 - Daily Interview [Github](https://github.com/datawhalechina/Daily-interview)
 - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总 [Github](https://github.com/0voice/interview_internal_reference)
+- CV岗常见面试题 [Github](https://github.com/donnyyou/cv-interview)
 
 
 ### 2. 牛客网
