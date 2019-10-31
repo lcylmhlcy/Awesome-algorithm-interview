@@ -98,6 +98,9 @@
 - 秋招 | 谷歌，微软，阿里，腾讯，百度等算法岗 [nowcoder](https://www.nowcoder.com/discuss/298278)
 - 微软、Hulu、Amazon、腾讯、百度、网易、美团、华为等18家公司SP Offer面经 [nowcoder](https://www.nowcoder.com/discuss/52516)
 - 面经 | 商汤科技计算机视觉岗【二面】 [nowcoder](https://www.nowcoder.com/discuss/267852)
+- 面经 | 阿里巴巴达摩院 CV 四轮算法面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
+- 面经 | 百度、美团、拼多多、寒武纪等互联网大厂面试经验 [nowcoder](https://www.nowcoder.com/discuss/241988)
+- 面经 | 旷视科技算法研究员面经 [nowcoder](https://www.nowcoder.com/discuss/167336)
 
 ### 3. Zhihu
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
