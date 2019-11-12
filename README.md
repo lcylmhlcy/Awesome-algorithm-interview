@@ -101,6 +101,8 @@
 - 面经 | 阿里巴巴达摩院 CV 四轮算法面经 [nowcoder](https://www.nowcoder.com/discuss/216797)
 - 面经 | 百度、美团、拼多多、寒武纪等互联网大厂面试经验 [nowcoder](https://www.nowcoder.com/discuss/241988)
 - 面经 | 旷视科技算法研究员面经 [nowcoder](https://www.nowcoder.com/discuss/167336)
+- 18家算法面经汇总 [nowcoder](https://www.nowcoder.com/discuss/313143)
+- 一个双非渣硕的自我救赎之路 [nowcoder](https://www.nowcoder.com/discuss/328830)
 
 ### 3. Zhihu
 - 算法工程师必须要知道的面试技能雷达图 [zhihu](https://zhuanlan.zhihu.com/p/54089811)
@@ -154,6 +156,7 @@
 - 机器学习常见算法优缺点总结！ [website](https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247485383&idx=1&sn=dc481b7e6261aecfada7b772fd2ae471&chksm=e9d01706dea79e1097a39ee0779dd8ab99671714f177133fc9f4dbd531e0cee4807cd34f178c&scene=0&xtrack=1&key=d5739ef05bcda6301af88ca81d2856a4296b48c7e05d1733f3d195063ccd566c1430c6d2cbf990173ec038c842d0b8c710678815b45174cb508e0e6c80e5d48790e062a492ef85b13f3b9a4d2b644b77&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=CqBupw%2FP1tVbatYy5KtWCuDWZ2meT4iMIDhjMVNgyWAou9uxB8EDLiHzBzTHh2xj)
 - 2019秋招AI算法岗复盘 [website](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247488788&idx=2&sn=50116b5ec4c9171b49bb52d36386a9ff&chksm=97d7f083a0a079952bdb093250f6ee01a15434ba5b3f7d8ae038cba23a7c28315d331a0ceedd&scene=0&xtrack=1&key=a4f2e1c535176118d1a03004f064566b9a1952a6fada428118cb08d353feab39102f225cb6fff0f98cf55790d9d3a589ea653a270e5e6e89407c726a2c3483a980cbbbda8890a3cecfe24fd88348e1ca&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=e6hh0zbWeUNXFGwXBwcggQr95dIdog5Q1MWep%2FM9ahanjOPwIheztFnowX0pNCPE)
 - 秋招面验 | 计算机视觉汇总面经分享 [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491490&idx=2&sn=cd09d4186254d18aef769fc634d68e86&chksm=ec1ff25bdb687b4de2e46645891760f19637bb9a357d07aa72fb61ada483cf486c5a1e352170&scene=0&xtrack=1&key=a4f2e1c5351761188e9e953dfd54a925f5b9cd52bc369cbfb582cfb4f749c6ee2aa611832c4d2b714b81a6b4abc9ac8bc737eb46c8128f157660d2d23f2bf176c051a2e972f10b346884e58009985fa7&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060841&lang=zh_CN&pass_ticket=e6hh0zbWeUNXFGwXBwcggQr95dIdog5Q1MWep%2FM9ahanjOPwIheztFnowX0pNCPE)
+- 面试官比较看重简历中的哪些维度，有什么写简历的技巧、建议和总结？ [website](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247487038&idx=1&sn=0ac71c12bd7d54a9a52b5e97a9622fe6&chksm=e870df73df075665392ddced32243db8058297e2d0d67e757aac9adec8f5dd2dbe4d1f7c0523&mpshare=1&scene=1&srcid=&sharer_sharetime=1573355519003&sharer_shareid=8724c7983f20914ec3c0c086bba89335&key=d4e2e0a334fd7fc709362ca1227355bf6c28c5babea298ca5610006e4c4531543ae1a28be050456a55c994a46bd6e4895aa6643190377fc359e04dae87a37272a4112e7552e8bcaedd60bfa1b01539f6&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=bKjcsGTk1thGyRHccXtSB6iwtrQWAI3mkAWK%2FFUqE6qp4dWMipHk2gUW9BhzyLCY)
 
 ### 6. Others
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -257,6 +260,8 @@ https://github.com/dsgiitr/d2l-pytorch)
 - An educational resource to help anyone learn deep reinforcement learning [Github](https://github.com/openai/spinningup)
 - Technical Notes On Using Data Science & Artificial Intelligence [website](https://chrisalbon.com/)
 - 微软人工智能教育与学习共建社区 [Github](https://github.com/microsoft/ai-edu)
+- deep-learning-drizzle [Github](https://github.com/kmario23/deep-learning-drizzle)
+- pyimagesearch [Website](https://www.pyimagesearch.com/)
 
 ### 3. Pytorch Code
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
@@ -389,6 +394,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese)
 - AI算法岗简历模板 [Github](https://github.com/amusi/AI-Job-Resume)
 - 个人简历模板 [Github](https://github.com/ikym/resume)
+- 程序员简历模板系列 [Github](https://github.com/geekcompany/ResumeSample)
   
 ---
   
