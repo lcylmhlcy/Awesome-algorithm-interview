@@ -112,7 +112,7 @@
 - CVTE视觉计算岗实习面经 [zhihu](https://zhuanlan.zhihu.com/p/59223324)
 - 互联网公司最常见的面试算法题有哪些？ [zhihu](https://www.zhihu.com/question/24964987/answer/586425979)
 - 计算机视觉（cv）方向今年招聘情况怎么样?是否已经人才过剩? [zhihu](https://www.zhihu.com/question/293700785)
-- [校招-基础算法]图像处理算法 [zhihu](https://zhuanlan.zhihu.com/p/80887909)
+- 校招-基础算法图像处理算法 [zhihu](https://zhuanlan.zhihu.com/p/80887909)
 
 ### 4. Blog
 - AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)
@@ -162,7 +162,7 @@
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
 - Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS)
 - CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)
-- CV领域Paper论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/58860096)
+- CV 领域Paper论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/58860096)
 
 ---
 
@@ -287,6 +287,7 @@ https://github.com/dsgiitr/d2l-pytorch)
 - Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2)
 - TensorFlow 中文资源全集 [Gitee](https://gitee.com/fendouai/Awesome-TensorFlow-Chinese)
 - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course [Github](https://github.com/ageron/tf2_course)
+- TensorFlow 2.0 深度学习开源书 [Github](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
   
 ### 5. Online Course
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
