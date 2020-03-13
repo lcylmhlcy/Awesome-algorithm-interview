@@ -296,19 +296,24 @@ https://github.com/dsgiitr/d2l-pytorch)
   
 ### 5. Online Course
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
+- [CS231n](http://cs231n.stanford.edu/) [CS224n](http://web.stanford.edu/class/cs224n/)
+- 计算机视觉基础入门课程（从算法到实战应用） [AI研习社](http://www.mooc.ai/course/353)
+- 微软-计算机视觉最佳实践、代码示例和相关文档 [Github](https://github.com/microsoft/ComputerVision)
+- Deep Learning: Advanced Computer Vision [udemy](https://www.udemy.com/advanced-computer-vision/)
+- Computer Vision Certification by NYU [coursera](https://www.coursera.org/specializations/computervision)
+- Deep Learning and Computer Vision A-Z: OpenCV, SSD & GANs [udemy](https://www.udemy.com/course/computer-vision-a-z/)
+- 2018 MIT 6.S094 麻省理工深度学习和自动驾驶课程  [AI研习社](http://www.mooc.ai/course/483)
+
+- 卡耐基梅隆大学 2018 秋季《深度学习导论》 [AI研习社](http://www.mooc.ai/course/562)
+- Convolutional Neural Networks [coursera](https://www.coursera.org/learn/convolutional-neural-networks)
+- 吴恩达 深度学习工程师 [网易云课堂](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+- 吴恩达的深度学习专项系列课程(Deep Learning Specialization) [Coursera](https://www.coursera.org/specializations/deep-learning) [163](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/)
 - 统计机器学习 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1692004)
 - 机器学习导论 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1694003)
-- 吴恩达 深度学习工程师 [网易云课堂](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
-- 计算机视觉基础入门课程（从算法到实战应用） [AI研习社](http://www.mooc.ai/course/353)
-- 卡耐基梅隆大学 2018 秋季《深度学习导论》 [AI研习社](http://www.mooc.ai/course/562)
-- CS224n 斯坦福深度自然语言处理课  [AI研习社](http://www.mooc.ai/course/494)
-- 2018 MIT 6.S094 麻省理工深度学习和自动驾驶课程  [AI研习社](http://www.mooc.ai/course/483)
-- Deep Learning: Advanced Computer Vision [udemy](https://www.udemy.com/advanced-computer-vision/)
-- Computer Vision Certification by State University of New York [coursera](https://www.coursera.org/specializations/computervision)
-- Convolutional Neural Networks [coursera](https://www.coursera.org/learn/convolutional-neural-networks)
-- Deep Learning and Computer Vision A-Z: OpenCV, SSD & GANs [udemy](https://www.udemy.com/course/computer-vision-a-z/)
-- 吴恩达的深度学习专项系列课程(Deep Learning Specialization) [Coursera](https://www.coursera.org/specializations/deep-learning) [163](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/)
-- [CS231n](http://cs231n.stanford.edu/) [CS224n](http://web.stanford.edu/class/cs224n/)
+
+
+
+
 - 斯坦福公开课程：概率和统计'Probability and Statistics' [website](https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics)
 - MIT公开课线性代数'Linear Algebra' [website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - Fastai推出的2019年面向程序员的深度学习实战课程'Practical Deep Learning for Coders, v3' [website](https://course.fast.ai) [website](https://www.bilibili.com/video/av41718196/)
@@ -328,8 +333,10 @@ https://github.com/dsgiitr/d2l-pytorch)
 - 台大林轩田老师课程<机器学习技法>课程 [bilibili](https://www.bilibili.com/video/av12469267/)
 - NTU大学李宏毅最新机器学习课程(2019) [website](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 - UC伯克利最新深度强化学习课程 [website](http://rail.eecs.berkeley.edu/deeprlcourse/) [YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A) [bilibili](https://www.bilibili.com/video/av69455099/) [Github](https://github.com/berkeleydeeprlcourse/homework)
-- 微软-计算机视觉最佳实践、代码示例和相关文档 [Github](https://github.com/microsoft/ComputerVision)
+
+- CS224n 斯坦福深度自然语言处理课  [AI研习社](http://www.mooc.ai/course/494)
 - 美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？ [zhihu](https://www.zhihu.com/question/57532048)
+
 
 ---
   
