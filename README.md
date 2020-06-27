@@ -200,6 +200,8 @@
 - 机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 [Github](https://github.com/NLP-LOVE/ML-NLP)
 - 周志华《机器学习》手推笔记 [Github](https://github.com/Sophia-11/Machine-Learning-Notes)
 -  《Python 机器学习》 [Github](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- A Brief Introduction to Machine Learning for Engineers [Github](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- 【斯坦福】凸优化圣经- Convex Optimization [Github](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 ### 3. Code
 - 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python)
@@ -211,7 +213,7 @@
 - AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning)
 - A Machine Learning Course with Python [Github](https://github.com/machinelearningmindset/machine-learning-course)
 - Machine learning, in numpy [Github](https://github.com/ddbourgin/numpy-ml)
-- A complete computer science study plan to become a software engineer. [Github](https://github.com/ddbourgin/numpy-ml)
+- A complete computer science study plan to become a software engineer. [Github](https://arxiv.org/abs/1709.02840)
 
 ---
 
@@ -268,6 +270,7 @@
 - createmomo的博客 [website](https://createmomo.github.io/)
 - ML/DL学习笔记（基础+论文） [Github](https://github.com/lartpang/Machine-Deep-Learning)
 - 微软人工智能教育与学习共建社区 [Github](https://github.com/microsoft/ai-edu)
+- 图神经网络导论，清华大学刘知远老师著作 [website](http://nlp.csai.tsinghua.edu.cn/~lzy/books/gnn_2020.html)
 
 ### 3. Pytorch Code
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
