@@ -45,6 +45,7 @@
 - Daily Interview [Github](https://github.com/datawhalechina/Daily-interview)
 - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总 [Github](https://github.com/0voice/interview_internal_reference)
 - CV岗常见面试题 [Github](https://github.com/donnyyou/cv-interview)
+- 计算机视觉算法岗知识点及面试问答汇总 [Github](https://github.com/GYee/CV_interviews_Q-A) 
 
 
 ### 2. Nowcoder
@@ -317,6 +318,7 @@
 - CS 330: Deep Multi-Task and Meta Learning [website](http://cs330.stanford.edu/)
 - TensorFlow: Data and Deployment 专项课程 [coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - MIT《深度学习导论》课程(2020) [bilibili](https://www.bilibili.com/video/av87680923)
+- 慕尼黑工业大学《高级深度学习》课程 [website](https://dvl.in.tum.de/teaching/adl4cv-ss20/)
 - 伯克利课程：深度无监督学习(2020) [bilibili](https://www.bilibili.com/video/av87459951)
 - CMU课程：深度学习导论(Spring 2020) [bilibili](https://www.bilibili.com/video/av86430108/)
 - 纽约大学《深度学习(PyTorch)》课程(2020) [bilibili](https://www.bilibili.com/video/av91314475)
