@@ -161,6 +161,9 @@
 - 面试官比较看重简历中的哪些维度，有什么写简历的技巧、建议和总结？ [website](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247487038&idx=1&sn=0ac71c12bd7d54a9a52b5e97a9622fe6&chksm=e870df73df075665392ddced32243db8058297e2d0d67e757aac9adec8f5dd2dbe4d1f7c0523&mpshare=1&scene=1&srcid=&sharer_sharetime=1573355519003&sharer_shareid=8724c7983f20914ec3c0c086bba89335&key=d4e2e0a334fd7fc709362ca1227355bf6c28c5babea298ca5610006e4c4531543ae1a28be050456a55c994a46bd6e4895aa6643190377fc359e04dae87a37272a4112e7552e8bcaedd60bfa1b01539f6&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=bKjcsGTk1thGyRHccXtSB6iwtrQWAI3mkAWK%2FFUqE6qp4dWMipHk2gUW9BhzyLCY)
 - 2019 秋招总结（算法工程师，非科班，已拿 6+offer，最后选择pdd） [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492376&idx=1&sn=b00c35ef44b9dab6e87210b470f36011&chksm=ec1c0ee1db6b87f75c9adeeff80f132d37ad317e4e9ac1a2cf503d2b7ad3f481dd35e1e1e144&scene=0&xtrack=1&key=ff1b1d089c15295ce89a0ed9cae474625f206d638b2e1bf064932989709b67df4c759bee3c613d3e281842bd5bc73e881fef17a4e97ee36e11ed4055b7ef2cbf3f759d7b89a137e97f19fa8f337cd5c3&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=A7%2BQdLgsE7Lp89BmMFR4w84%3D&pass_ticket=isK%2FwATeORDKA144xaM2%2FZkXRQIChncFMP25btSedNMCRsZBUEgl7YxoVEFxq8eQ)
 - 专科生作业帮大数据面经(已拿offer，附详细答案) [website](https://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650489243&idx=2&sn=320cd566306cd0288711bcb932872e0c&chksm=83a29b5bb4d5124d9c21f407eba82e6ef171313de0d0982f17bd92732c2d9962140c6a19061c&scene=0&xtrack=1&key=ff1b1d089c15295c0fe86140c1dbb0ec3142747bd0988d339ad5028abdb5422fd4d9020445d2e484c3eba95531b9bc693bd5198a5134d604816de4bbcf3f3100d335f438028f53e2b135536aac4f750a&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=A%2Fw9YetjrO6jEgfuuYjVWoM%3D&pass_ticket=isK%2FwATeORDKA144xaM2%2FZkXRQIChncFMP25btSedNMCRsZBUEgl7YxoVEFxq8eQ)
+- 美团+阿里 | 机器学习算法春招面经 [website](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247485429&idx=1&sn=4c3c82522338b38fc71d8350fe277624&chksm=97aee127a0d96831b851c65f2f83ce197ef6a6d828ad010ff4a02eb6fa75fa4d349da6c9a30d&mpshare=1&scene=24&srcid=&sharer_sharetime=1591177313224&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+- 13个offer，8家SSP，谈谈我的秋招经验 [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247495199&idx=2&sn=b6298005215540929e50d109b2bd8087&chksm=ec1c03e6db6b8af042a3674b59f96da90e6a32170e15aef3be141baf43d30cf632a4ed0b5c96&mpshare=1&scene=24&srcid=&sharer_sharetime=1589618067728&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+- 字节跳动 | 算法面试复盘 [website](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247485081&idx=1&sn=9db434e85c1ea9662474e0e2a841e78c&chksm=97aee04ba0d9695dc13fa8f381d10b8c974d35a8717356c6b88e33dfb647f70f11bd0889c618&mpshare=1&scene=24&srcid=&sharer_sharetime=1589362121355&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
 
 ### 6. Others
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -242,11 +245,12 @@
 - An educational resource to help anyone learn deep reinforcement learning [Github](https://github.com/openai/spinningup)
 - Technical Notes On Using Data Science & Artificial Intelligence [website](https://chrisalbon.com/)
 - deep-learning-drizzle [Github](https://github.com/kmario23/deep-learning-drizzle)
-- 复旦大学邱锡鹏教授发布<神经网络与深度学习> [Github书](https://github.com/nndl/nndl.github.io) [Github示例代码](https://github.com/nndl/nndl-codes) [Github课程练习](https://github.com/nndl/exercise)
+- 邱锡鹏<神经网络与深度学习> [Github书](https://github.com/nndl/nndl.github.io) [Github示例代码](https://github.com/nndl/nndl-codes) [Github课程练习](https://github.com/nndl/exercise)
 - 伯克利课程 <动手学深度学习> [Github](https://github.com/d2l-ai/d2l-zh) [课程主页](http://courses.d2l.ai/berkeley-stat-157/) [bilibili](https://space.bilibili.com/209599371/channel/detail?cid=23541) [课件和习题](https://github.com/d2l-ai/berkeley-stat-157) [英文版](http://d2l.ai/) [中文版](http://zh.d2l.ai/) [PyTorch 版](https://github.com/dsgiitr/d2l-pytorch)
 - <深度学习理论与实战：提高篇> [Github](http://fancyerii.github.io/2019/03/14/dl-book/)
 - 神经网络和深度学习的在线书籍 [website](http://neuralnetworksanddeeplearning.com/) [chinese](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/)
 - 花书 Deep Learning 中文版 [Github](https://github.com/exacity/deeplearningbook-chinese)
+- 《深度学习》圣经花书的数学推导、原理与Python代码实现 [Github](https://github.com/MingchaoZhu/DeepLearning)
 - 《Python深度学习算法实战(TensorFlow)》随书代码 [Github](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python)
 - 用Python实现"Pattern Recognition and Machine Learning”里的算法 [Github](https://github.com/ctgk/PRML)
 - Awesome_Computer_Vision [Github](https://github.com/ahong007007/Awesome_Computer_Vision)
@@ -271,6 +275,7 @@
 - ML/DL学习笔记（基础+论文） [Github](https://github.com/lartpang/Machine-Deep-Learning)
 - 微软人工智能教育与学习共建社区 [Github](https://github.com/microsoft/ai-edu)
 - 图神经网络导论，清华大学刘知远老师著作 [website](http://nlp.csai.tsinghua.edu.cn/~lzy/books/gnn_2020.html)
+- 深度学习视觉系统，Deep Learning for Vision Systems [website](https://www.manning.com/books/deep-learning-for-vision-systems)
 
 ### 3. Pytorch Code
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
@@ -279,6 +284,7 @@
 - stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning)
 - practicalAI [Github](https://github.com/GokuMohandas/practicalAI)
 - PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook)
+- PyTorch中文版官方教程 [Website](http://pytorch123.com)
 - <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book)
 - code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
 - Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list)
@@ -291,6 +297,7 @@
 - Fastai 深度学习实战'Practical Deep Learning for Coders, v3' [website](https://course.fast.ai) [website](https://www.bilibili.com/video/av41718196/)
 - Fast.ai 'Deep Learning from the Foundations' [website](https://www.fast.ai/2019/06/28/course-p2v3/)
 - 全栈深度学习训练营(课程视频)'Full Stack Deep Learning Bootcamp' [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) [bilibili](https://www.bilibili.com/video/av49643298) [website](https://fullstackdeeplearning.com/march2019)
+- PyTorch 资源大列表中文版 [Github](https://github.com/bharathgs/Awesome-pytorch-list) [Github汉化](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
   
 ### 4. Tensorflow Code
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)
@@ -302,6 +309,9 @@
 - TensorFlow 2.0 深度学习开源书 [Github](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - deeplearning.ai TensorFlow实践课程'TensorFlow in Practice' [website](https://www.deeplearning.ai/tensorflow-in-practice/)
 - TensorFlow 2.0初学者教程 [bilibili](https://www.bilibili.com/video/av86828264/)
+- 30天吃掉那只 TensorFlow2 [Github](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
+- TensorFlow2.0 官方教程翻译 [Github](https://github.com/mashangxue/tensorflow2-zh)
+- 《动手学深度学习》TensorFlow 2.0实现 [Github](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
   
 ### 5. Online Course
 - 人工智能课程列表：斯坦福、MIT、UC Berkeley等顶校的开放式深度学习和强化学习课程 [Github](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
@@ -373,6 +383,7 @@
 - 面试高频算法题总结，个人博客 [Github](https://github.com/Making-It/Code)
 - Algorithm for Interview（面试算法笔记-中文） [Github](https://github.com/imhuay/Algorithm_for_Interview-Chinese)
 - leetcode 1~400知识点&题型总结&leetcode对应题表 [Github](https://github.com/huxiaoman7/leetcodebook)
+- C++解决问题第七版 [Website](https://www.pearson.com/us/higher-education/program/Savitch-Problem-Solving-with-C-7th-Edition/PGM2821314.html?tab=overview)
   
 ---
   
