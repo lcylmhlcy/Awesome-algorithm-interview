@@ -45,7 +45,8 @@
 - Daily Interview [Github](https://github.com/datawhalechina/Daily-interview)
 - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总 [Github](https://github.com/0voice/interview_internal_reference)
 - CV岗常见面试题 [Github](https://github.com/donnyyou/cv-interview)
-- 计算机视觉算法岗知识点及面试问答汇总 [Github](https://github.com/GYee/CV_interviews_Q-A) 
+- 计算机视觉算法岗知识点及面试问答汇总 [Github](https://github.com/GYee/CV_interviews_Q-A)
+- awesome-computer-vision [Github](https://github.com/jbhuang0604/awesome-computer-vision)
 
 
 ### 2. Nowcoder
