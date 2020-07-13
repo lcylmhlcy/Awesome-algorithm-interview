@@ -300,6 +300,7 @@
 - Fast.ai 'Deep Learning from the Foundations' [website](https://www.fast.ai/2019/06/28/course-p2v3/)
 - 全栈深度学习训练营(课程视频)'Full Stack Deep Learning Bootcamp' [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) [bilibili](https://www.bilibili.com/video/av49643298) [website](https://fullstackdeeplearning.com/march2019)
 - PyTorch 资源大列表中文版 [Github](https://github.com/bharathgs/Awesome-pytorch-list) [Github汉化](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
+- pytorch-lightning [Github](https://github.com/PyTorchLightning/pytorch-lightning)
   
 ### 4. Tensorflow Code
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)
