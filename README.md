@@ -165,6 +165,7 @@
 - 美团+阿里 | 机器学习算法春招面经 [website](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247485429&idx=1&sn=4c3c82522338b38fc71d8350fe277624&chksm=97aee127a0d96831b851c65f2f83ce197ef6a6d828ad010ff4a02eb6fa75fa4d349da6c9a30d&mpshare=1&scene=24&srcid=&sharer_sharetime=1591177313224&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
 - 13个offer，8家SSP，谈谈我的秋招经验 [website](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247495199&idx=2&sn=b6298005215540929e50d109b2bd8087&chksm=ec1c03e6db6b8af042a3674b59f96da90e6a32170e15aef3be141baf43d30cf632a4ed0b5c96&mpshare=1&scene=24&srcid=&sharer_sharetime=1589618067728&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
 - 字节跳动 | 算法面试复盘 [website](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247485081&idx=1&sn=9db434e85c1ea9662474e0e2a841e78c&chksm=97aee04ba0d9695dc13fa8f381d10b8c974d35a8717356c6b88e33dfb647f70f11bd0889c618&mpshare=1&scene=24&srcid=&sharer_sharetime=1589362121355&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+- 机器学习算法面经（腾讯阿里网易） [website](https://mp.weixin.qq.com/s?__biz=MzI4MjM1NzQ0OA==&mid=2247486549&idx=3&sn=44d9204e983f591e4bcf7bbfb5a2817e&chksm=eb9a77f2dcedfee4c99398fb4c94e7e52ce7241f23d72fb400834a49e18ebf447dffa08df308&mpshare=1&scene=24&srcid=0706PaeqxLWRXwqt8NbyKDlh&sharer_sharetime=1594040353146&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
 
 ### 6. Others
 - 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
@@ -460,4 +461,5 @@
 - Everything you need to know to get the job [Github](https://github.com/kdn251/interviews)
 - Everything you need to prepare for your technical interview [Github](https://github.com/andreis/interview)
 - Materials to help you rock your next coding interview [Github](https://github.com/yangshun/tech-interview-handbook)
-- Study materials for SE/CS technical interviews [Github](https://github.com/jdsutton/Technical-Interview-Megarepo) 
+- Study materials for SE/CS technical interviews [Github](https://github.com/jdsutton/Technical-Interview-Megarepo)
+- coding interview university [Github](https://github.com/jwasham/coding-interview-university)
