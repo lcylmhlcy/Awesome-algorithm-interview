@@ -6,11 +6,13 @@
 
 ## meetings
 1. WWW20-Hands-on-Tutorial [Github](https://github.com/dglai/WWW20-Hands-on-Tutorial)
+2. CVPR2020-Code [Github](https://github.com/amusi/CVPR2020-Code)
 
 ---
 
 ## CV tools
 1. AdelaiDet [Github](https://github.com/aim-uofa/AdelaiDet)
+2. SegmenTron [Github](https://github.com/LikeLy-Journey/SegmenTron)
 
 ---
 
@@ -31,3 +33,5 @@
 
 ## others
 1. Dotfiles [Github](https://github.com/spencerwooo/dotfiles)
+2. pearProject [Github](https://github.com/a54552239/pearProject)
+3. starrtc-server [Github](https://github.com/starrtc/starrtc-server)
