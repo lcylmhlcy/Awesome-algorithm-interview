@@ -6,7 +6,7 @@
 5. netron [Github](https://github.com/lutzroeder/netron)
 6. facets [Github](https://github.com/PAIR-code/facets)
 7. scikit-plot [Github](https://github.com/reiinakano/scikit-plot)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
+8. tensorwatch [Github](https://github.com/microsoft/tensorwatch)
 
 
 
@@ -34,10 +34,10 @@
 12. LabelMeAnnotationTool [Github](https://github.com/CSAILVision/LabelMeAnnotationTool)
 13. mixup-cifar10 [Github](https://github.com/facebookresearch/mixup-cifar10)
 14. video-object-removal [Github](https://github.com/zllrunning/video-object-removal)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
+15. PoseEstimationForMobile [Github](https://github.com/edvardHua/PoseEstimationForMobile)
+16. trafficVision [Github](https://github.com/srohit0/trafficVision)
+17. mmaction [Github](https://github.com/open-mmlab/mmaction)
+18. pytorch-image-models [Github](https://github.com/rwightman/pytorch-image-models)
 4. visdom [Github](https://github.com/facebookresearch/visdom)
 4. visdom [Github](https://github.com/facebookresearch/visdom)
 4. visdom [Github](https://github.com/facebookresearch/visdom)
@@ -49,9 +49,9 @@
 
 ## NLP tools
 1. SceneGraphParser [Github](https://github.com/vacancy/SceneGraphParser)
-- albert_zh [Github](https://github.com/brightmart/albert_zh)
-- GPT2-Chinese [Github](https://github.com/Morizeyao/GPT2-Chinese)
-- weibo_spider [Github](https://github.com/python3xxx/weibo_spider)
+2. albert_zh [Github](https://github.com/brightmart/albert_zh)
+3. GPT2-Chinese [Github](https://github.com/Morizeyao/GPT2-Chinese)
+4. weibo_spider [Github](https://github.com/python3xxx/weibo_spider)
 
 ---
 
@@ -79,6 +79,19 @@
 15. pretrained-models.pytorch [Github](https://github.com/Cadene/pretrained-models.pytorch)
 16. TDengine [Github](https://github.com/taosdata/TDengine)
 17. YOLOv3-model-pruning [Github](https://github.com/Lam1360/YOLOv3-model-pruning)
+18. LiteratureDL4Graph [Github](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
+19. Deep Graph Library (DGL) [Github](https://github.com/dmlc/dgl)
+20. TensorRT [Github](https://github.com/NVIDIA/TensorRT)
+21. pytorch-custom-cuda-tutorial [Github](https://github.com/chrischoy/pytorch-custom-cuda-tutorial)
+22. TorchSnooper [Github](https://github.com/zasdfgbnm/TorchSnooper)
+23. openvino_training_extensions [Github](https://github.com/opencv/openvino_training_extensions)
+4. visdom [Github](https://github.com/facebookresearch/visdom)
+4. visdom [Github](https://github.com/facebookresearch/visdom)
+4. visdom [Github](https://github.com/facebookresearch/visdom)
+4. visdom [Github](https://github.com/facebookresearch/visdom)
+4. visdom [Github](https://github.com/facebookresearch/visdom)
+4. visdom [Github](https://github.com/facebookresearch/visdom)
+4. visdom [Github](https://github.com/facebookresearch/visdom)
 4. visdom [Github](https://github.com/facebookresearch/visdom)
 
 ---
@@ -90,7 +103,7 @@
 4. Papers with Code [Github](https://github.com/zziz/pwc)
 5. GNNPapers [Github](https://github.com/thunlp/GNNPapers)
 6. graph-classification [Github](https://github.com/benedekrozemberczki/awesome-graph-classification)
-4. Papers with Code [Github](https://github.com/zziz/pwc)
+7. Image-Inpainting [Github](https://github.com/1900zyh/Awesome-Image-Inpainting)
 4. Papers with Code [Github](https://github.com/zziz/pwc)
 4. Papers with Code [Github](https://github.com/zziz/pwc)
 4. Papers with Code [Github](https://github.com/zziz/pwc)
@@ -105,8 +118,8 @@
 5. tiler [Github](https://github.com/nuno-faria/tiler)
 6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
 7. handout [Github](https://github.com/danijar/handout)
-6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
-6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
+8. call-python-from-cpp [Github](https://github.com/wkentaro/call-python-from-cpp)
+9. Remu [Github](https://github.com/zenghongtu/Remu)
 6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
 6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
 6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
