@@ -38,6 +38,7 @@
 - 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience)
 - 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes)
 - AI算法岗求职攻略 [Github](https://github.com/amusi/AI-Job-Notes) [(amusi)](https://github.com/amusi)
+- 面向视觉算法开发者的极市社区，微信公众号:极市平台CVMart [Github](https://github.com/extreme-assistant)
 - 阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 [Github](https://github.com/xiaole0310/interview-)
 - 「面试算法练级攻略」-「LeetCode题解」-「剑指offer题解」 [Github](https://github.com/guokaide/algorithm)
 - MVision-awesome [Github](https://github.com/Ewenwan/MVision)
@@ -47,6 +48,7 @@
 - CV岗常见面试题 [Github](https://github.com/donnyyou/cv-interview)
 - 计算机视觉算法岗知识点及面试问答汇总 [Github](https://github.com/GYee/CV_interviews_Q-A)
 - awesome-computer-vision [Github](https://github.com/jbhuang0604/awesome-computer-vision)
+- 互联网公司leetcode题目 [Github](https://github.com/afatcoder/LeetcodeTop)
 
 
 ### 2. Nowcoder
@@ -116,6 +118,7 @@
 - 互联网公司最常见的面试算法题有哪些？ [zhihu](https://www.zhihu.com/question/24964987/answer/586425979)
 - 计算机视觉（cv）方向今年招聘情况怎么样?是否已经人才过剩? [zhihu](https://www.zhihu.com/question/293700785)
 - 校招-基础算法图像处理算法 [zhihu](https://zhuanlan.zhihu.com/p/80887909)
+- 深度学习算法工程师面经 [zhihu](https://zhuanlan.zhihu.com/p/148246487)
 
 ### 4. Blog
 - AI算法工程师手册 [Blog](http://www.huaxiaozhuan.com/)
@@ -278,6 +281,7 @@
 - 微软人工智能教育与学习共建社区 [Github](https://github.com/microsoft/ai-edu)
 - 图神经网络导论，清华大学刘知远老师著作 [website](http://nlp.csai.tsinghua.edu.cn/~lzy/books/gnn_2020.html)
 - 深度学习视觉系统，Deep Learning for Vision Systems [website](https://www.manning.com/books/deep-learning-for-vision-systems)
+- 计算机视觉colab notebook列表 [website](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
 
 ### 3. Pytorch Code
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
@@ -319,6 +323,7 @@
 ### 5. Online Course
 - 人工智能课程列表：斯坦福、MIT、UC Berkeley等顶校的开放式深度学习和强化学习课程 [Github](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 - 斯坦福CS231n李飞飞计算机视觉 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
+- CS 231n进阶版 [Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 - 计算机视觉基础入门课程（从算法到实战应用） [AI研习社](http://www.mooc.ai/course/353)
 - 微软-计算机视觉最佳实践、代码示例和相关文档 [Github](https://github.com/microsoft/ComputerVision)
 - Deep Learning: Advanced Computer Vision [udemy](https://www.udemy.com/advanced-computer-vision/)
@@ -334,6 +339,7 @@
 - CS 330: Deep Multi-Task and Meta Learning [website](http://cs330.stanford.edu/)
 - TensorFlow: Data and Deployment 专项课程 [coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - MIT《深度学习导论》课程(2020) [bilibili](https://www.bilibili.com/video/av87680923)
+- 北京大学高等深度学习课程 [Github](https://github.com/PKUAI26/Deep-Learning-Advanced-Topics)
 - 慕尼黑工业大学《高级深度学习》课程 [website](https://dvl.in.tum.de/teaching/adl4cv-ss20/)
 - 伯克利课程：深度无监督学习(2020) [bilibili](https://www.bilibili.com/video/av87459951)
 - CMU课程：深度学习导论(Spring 2020) [bilibili](https://www.bilibili.com/video/av86430108/)
@@ -347,6 +353,8 @@
 - 统计机器学习 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1692004)
 - 机器学习导论 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1694003)
 - 斯坦福 机器学习课程'Machine Learning(Coursera)' [coursera](https://www.coursera.org/learn/machine-learning)
+- 复旦大学机器学习 [bilibili](https://www.bilibili.com/video/BV1H54y197QF/)
+- 复旦大学深度学习 [bilibili](https://www.bilibili.com/video/BV1Bt4y1U7xq/)
 - MIT Python机器学习课程'Machine Learning with Python-From Linear Models to Deep Learning' [website](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning)
 - 台大林轩田老师<机器学习基石>课程 [bilibili](https://www.bilibili.com/video/av12463015/)
 - 台大林轩田老师课程<机器学习技法>课程 [bilibili](https://www.bilibili.com/video/av12469267/)
@@ -408,6 +416,7 @@
 - c9-python-getting-started [Github](https://github.com/microsoft/c9-python-getting-started)
 - 编程超能力入门班 [Blog](www.enginego.org)
 - Just Code ! 针对面试训练算法题 [Github](https://github.com/YaxeZhang/Just-Code)
+- 和小浩学算法 [Github](https://github.com/geekxh/hello-algorithm)
   
 ---
   
@@ -430,6 +439,12 @@
 - [Analytics Vidhya](https://datahack.analyticsvidhya.com/?utm_source=main-logo)
 - [crowdAI](https://www.crowdai.org/challenges)
 - [Data Science Challenges](https://www.datasciencechallenge.org/)
+- [HackerRank](https://www.hackerrank.com/)
+- [TopCoder](https://www.topcoder.com/challenges/)
+- [Geekforgeeks](https://practice.geeksforgeeks.org/)
+- [Leetcode](https://leetcode.com/)
+- [Daily Coding Problem](https://www.dailycodingproblem.com/)
+- [Exercism.io](https://exercism.io/)
   
 ---
   
@@ -443,6 +458,9 @@
 ---
   
 ## Others
+- 国内外优秀的计算机视觉团队汇总 [CSDN](https://blog.csdn.net/fengdu78/article/details/107478742)
+- 国内各大城市提供计算机视觉（CV）算法岗的公司名单 [Github](https://github.com/amusi/CV-Company-List)
+- 清华大神的计算机自学笔记 [Github](https://github.com/huangrt01/CS-Notes)
 - 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 - awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - Startups about artificial intelligence. (DM, ML, NLP, CV...) [Github](https://github.com/lipiji/AIStartups)
