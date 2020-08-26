@@ -257,6 +257,7 @@
 - 花书 Deep Learning 中文版 [Github](https://github.com/exacity/deeplearningbook-chinese)
 - 《深度学习》圣经花书的数学推导、原理与Python代码实现 [Github](https://github.com/MingchaoZhu/DeepLearning)
 - 《Python深度学习算法实战(TensorFlow)》随书代码 [Github](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python)
+- 《Python深度学习》书籍 [Github](https://github.com/ChileWang0228/Deep-Learning-With-Python)
 - 用Python实现"Pattern Recognition and Machine Learning”里的算法 [Github](https://github.com/ctgk/PRML)
 - Awesome_Computer_Vision [Github](https://github.com/ahong007007/Awesome_Computer_Vision)
 - 计算机视觉知识点总结 [zhihu](https://zhuanlan.zhihu.com/p/58776542)
@@ -305,6 +306,7 @@
 - 全栈深度学习训练营(课程视频)'Full Stack Deep Learning Bootcamp' [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) [bilibili](https://www.bilibili.com/video/av49643298) [website](https://fullstackdeeplearning.com/march2019)
 - PyTorch 资源大列表中文版 [Github](https://github.com/bharathgs/Awesome-pytorch-list) [Github汉化](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
 - pytorch-lightning [Github](https://github.com/PyTorchLightning/pytorch-lightning)
+- Fast.ai 2.0中英字幕版 [bilibili](https://www.bilibili.com/video/BV16K4y1Y7mw/)
   
 ### 4. Tensorflow Code
 - TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One)
@@ -395,7 +397,9 @@
 - Algorithm for Interview（面试算法笔记-中文） [Github](https://github.com/imhuay/Algorithm_for_Interview-Chinese)
 - leetcode 1~400知识点&题型总结&leetcode对应题表 [Github](https://github.com/huxiaoman7/leetcodebook)
 - C++解决问题第七版 [Website](https://www.pearson.com/us/higher-education/program/Savitch-Problem-Solving-with-C-7th-Edition/PGM2821314.html?tab=overview)
-  
+- LeetCode All In One [Github](https://github.com/grandyang/leetcode/blob/master/README-CN.md)
+- fucking-algorithm [Github](https://github.com/labuladong/fucking-algorithm)
+
 ---
   
 ## Python
@@ -482,3 +486,14 @@
 - Materials to help you rock your next coding interview [Github](https://github.com/yangshun/tech-interview-handbook)
 - Study materials for SE/CS technical interviews [Github](https://github.com/jdsutton/Technical-Interview-Megarepo)
 - coding interview university [Github](https://github.com/jwasham/coding-interview-university)
+- studytonight [website](https://www.studytonight.com/)
+- udacity [website](hhttps://cn.udacity.com/)
+- tutorialspoint [website](http://www.tutorialspoint.com/index.htm)
+- classcentral [website](https://www.classcentral.com/)
+- nptel [website](https://nptel.ac.in/)
+- codescracker [website](https://codescracker.com/)
+- homepage [website](https://homepage.cs.uri.edu)
+- computer.howstuffworks [website](https://computer.howstuffworks.com/)
+- tldp [website](https://tldp.org/)
+- homepage [website](https://homepage.cs.uri.edu)
+- homepage [website](https://homepage.cs.uri.edu)
