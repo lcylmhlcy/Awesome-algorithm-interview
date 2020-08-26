@@ -495,5 +495,3 @@
 - homepage [website](https://homepage.cs.uri.edu)
 - computer.howstuffworks [website](https://computer.howstuffworks.com/)
 - tldp [website](https://tldp.org/)
-- homepage [website](https://homepage.cs.uri.edu)
-- homepage [website](https://homepage.cs.uri.edu)
