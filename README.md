@@ -399,6 +399,7 @@
 - C++解决问题第七版 [Website](https://www.pearson.com/us/higher-education/program/Savitch-Problem-Solving-with-C-7th-Edition/PGM2821314.html?tab=overview)
 - LeetCode All In One [Github](https://github.com/grandyang/leetcode/blob/master/README-CN.md)
 - fucking-algorithm [Github](https://github.com/labuladong/fucking-algorithm)
+- LeetCode in Go [Github](https://github.com/halfrost/LeetCode-Go)
 
 ---
   
