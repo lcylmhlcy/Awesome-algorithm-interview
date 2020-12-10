@@ -49,6 +49,7 @@
 - 计算机视觉算法岗知识点及面试问答汇总 [Github](https://github.com/GYee/CV_interviews_Q-A)
 - awesome-computer-vision [Github](https://github.com/jbhuang0604/awesome-computer-vision)
 - 互联网公司leetcode题目 [Github](https://github.com/afatcoder/LeetcodeTop)
+- Algorithm_for_Interview-Chinese [Github](https://github.com/imhuay/Algorithm_for_Interview-Chinese)
 
 
 ### 2. Nowcoder
@@ -185,6 +186,7 @@
 - machine-learning-interview-questions [Github](https://github.com/Sroy20/machine-learning-interview-questions)
 - 机器学习与深度学习面试问题总结 [Blog](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247486331&idx=1&sn=abc69ee44d932dd7d6bc4bbef82045c8&chksm=97ea211ea09da808a546c4a6f485f45289fea2e69cddc95aaf16f06ddfb9c428ecf9d259c980&scene=0&key=f7bb43d4492422e0472e06f4faf0076f9d9de975e8a73050e15cd63f1f549a060f9018009aa9f1f5f19aa37f1408ecb3ea2be5b8464b4eae89884e1d881c91ebef20c84ea9198fed470f36016f54c30a&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fLkIwHFJHv2%2FbP8RGzzYjXOZFDZBSwG0jwcmIEQhVi6CQoLDsa0PiCF8xoyKnPtI)
 - 机器学习面试复习资源 [Github](https://github.com/wangyuGithub01/Machine_Learning_Resources)
+- 【机器学习面试准备指南】 [Github](https://github.com/AstronomerAmber/ML_prep)
 
 ### 2. Documentation
 - Your new Mentor for Data Science E-Learning [Github](https://github.com/clone95/Virgilio)
@@ -283,6 +285,7 @@
 - 图神经网络导论，清华大学刘知远老师著作 [website](http://nlp.csai.tsinghua.edu.cn/~lzy/books/gnn_2020.html)
 - 深度学习视觉系统，Deep Learning for Vision Systems [website](https://www.manning.com/books/deep-learning-for-vision-systems)
 - 计算机视觉colab notebook列表 [website](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
+- 【机器学习/深度学习报告、Kaggler优胜模型、深度学习最佳实践大列表】 [Github](https://github.com/wandb/awesome-dl-projects)
 
 ### 3. Pytorch Code
 - pytorch [Github](https://github.com/pytorch/pytorch) [Website](https://pytorch.org/)
@@ -365,11 +368,14 @@
 - NTU大学李宏毅最新机器学习课程(2019) [website](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 - 斯坦福 概率和统计'Probability and Statistics' [website](https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics)
 - MIT 线性代数'Linear Algebra' [website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- 斯科尔科沃理工学院“数值线性代数”课程资料 [Github](https://github.com/oseledets/nla2020)
 - 斯坦福 概率图模型专项课程'Probabilistic Graphical Models Specialization(Coursera)' [coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)
 - 北欧概率AI学校课程资料 [Github](https://github.com/probabilisticai/probai-2019)
 - 斯坦福CS224U自然语言理解课程'CS224U：Natural Language Understanding' [website](http://web.stanford.edu/class/cs224u/index.html)
 - CS224n 斯坦福深度自然语言处理课 [AI研习社](http://www.mooc.ai/course/494)
 - 李宏毅《深度学习人类语言处理》国语 (2020) [bilibili](https://www.bilibili.com/video/av94310884)
+- 《因果推理导论》课程(2020) [bilibili](https://www.bilibili.com/video/BV1nZ4y1K78i/)
+- BiliBili公开课目录数学 [Github](https://github.com/wenhan-wu/OpenCourseCatalog)
 - 美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？ [zhihu](https://www.zhihu.com/question/57532048)
 - 跟顶级Kagglers学习如何赢取数据科学竞赛'How to Win a Data Science Competition: Learn from Top Kagglers (Coursera)' [coursera](https://www.coursera.org/learn/competitive-data-science)
 
@@ -498,3 +504,9 @@
 - homepage [website](https://homepage.cs.uri.edu)
 - computer.howstuffworks [website](https://computer.howstuffworks.com/)
 - tldp [website](https://tldp.org/)
+- 计算机科学和相关领域研究生奖学金大列表 [Github](https://github.com/chinasaokolo/csGraduateFellowships)
+- Learn Vim (the Smart Way)：Vim学习手册 [Github](https://github.com/iggredible/Learn-Vim)
+- 【Vim操作速查表】《Vim Cheatsheet》 [website](https://darkshadow.io/2020/06/21/vim-cheatsheet.html)
+- 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹） [Github](https://github.com/SSHeRun/CS-Xmind-Note)
+- 哈佛大学《计算机科学导论》课程 (2019) [bilibili](https://www.bilibili.com/read/cv5086010)
+- MIT《计算机科学“补漏”课》(2020) [bilibili](https://www.bilibili.com/read/cv5087259)
