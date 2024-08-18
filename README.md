@@ -465,6 +465,7 @@
 - Study materials for SE/CS technical interviews [Github](https://github.com/jdsutton/Technical-Interview-Megarepo)
 - coding interview university [Github](https://github.com/jwasham/coding-interview-university)
 - studytonight [website](https://www.studytonight.com/)
+- BoldCoder [website](https://boldcoder.blogspot.com/)
 - udacity [website](hhttps://cn.udacity.com/)
 - tutorialspoint [website](http://www.tutorialspoint.com/index.htm)
 - classcentral [website](https://www.classcentral.com/)
