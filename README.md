@@ -479,3 +479,8 @@
 - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹） [Github](https://github.com/SSHeRun/CS-Xmind-Note)
 - 哈佛大学《计算机科学导论》课程 (2019) [bilibili](https://www.bilibili.com/read/cv5086010)
 - MIT《计算机科学“补漏”课》(2020) [bilibili](https://www.bilibili.com/read/cv5087259)
+
+## 🔗 相关工具 / Related tools
+
+- [简历大师 Resume Master](https://markmiller1.github.io/resume-master/) — 免费、纯前端、隐私优先的在线简历生成器，8 套模板 + ATS 检测 + 64 页求职指南，数据不出本机
+- [awesome-resume-cn](https://github.com/markmiller1/awesome-resume-cn) — 中文免费简历资源精选清单（工具 / 模板 / 写作指南）
